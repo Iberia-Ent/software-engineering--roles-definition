@@ -1,4 +1,4 @@
-![](../static/iberia.jpg)
+![](../static/iberia.png)
 
 # [Role] for [Product]
 
