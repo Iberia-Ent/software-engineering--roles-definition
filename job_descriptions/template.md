@@ -1,14 +1,14 @@
 ![](../static/iberia.png)
 
-# [Role] for [Product]
+# *[Role]* for *[Product]*
 
 ## What you will do
 
-[Product description]
+*[Product description]*
 
 ## What we expect from you
 
-[Insert role definition from roles.md]
+[Insert role definition from [roles file](../roles_definition.md)
 
 We would love to hear your experience in these tasks in previous jobs.
 
@@ -19,9 +19,9 @@ Iberia works in product-oriented teams, with full ownership and autonomy inside 
 - Methodology
   - Agile (Scrum)
 - Skills
-  - [Insert skills needed for product]
+  - *[Insert skills needed for product]*
 - Stack
-  - [Insert product stack]
+  - *[Insert product stack]*
 
 But we are keen to know other things that can be of importance: Side projects, other stack knowledge, hidden skills…
 
