@@ -4,11 +4,9 @@
 
 ## What you will do
 
-We’re looking for a senior Java developer to join our customer and commercial team.
+We’re looking for a senior Java developer to join Iberia team.
 
-This team is entrusted with evolving a commercial platform with a continuous demand of digital features and improving digital channel capabilities. In this team you will adopt extreme programming practices, CI/CD pipelines and cloud adoption.
-
-This domain is key to Iberia and has high visibility and impact in the company.
+This team is entrusted with evolving a digital platform with a continuous demand of digital features and improving digital channel capabilities. In this team you will adopt extreme programming practices, CI/CD pipelines and cloud adoption.
 
 ## What we expect from you
 
