@@ -10,10 +10,10 @@ This team is entrusted with evolving a digital platform with a continuous demand
 
 ## What we expect from you
 
-A technical lead in Iberia is responsible for coordinating epic implementations. It’s the owner of the technical debt backlog and serves as an interface between business, architecture, and the teams. The technical lead is expected t- have a very proactive attitude and work totally independent.
+A technical lead in Iberia is responsible for coordinating epic implementations. It’s the owner of the technical debt backlog and serves as an interface between business, architecture, and the teams. The technical lead is expected to have a very proactive attitude and work totally independent.
 - Functional requirements
-    - 3 amigos with QA and P- (epic level)
-    - Challenge feature implementation and identify conflictive features t- remove - Guide more junior roles following the defined solutions
+    - 3 amigos with QA and PO (epic level)
+    - Challenge feature implementation and identify conflictive features to remove - Guide more junior roles following the defined solutions
     - Coordinate software development on epics and other concrete tasks
     - Promote Pair/Mob programming
 - Observability
@@ -21,7 +21,7 @@ A technical lead in Iberia is responsible for coordinating epic implementations.
     - Define alerts with QA
     - Review application events and technical logs
 - Security
-    - Identify potential issues t- communicate t- Solutions Architect - Review security reports and alerts
+    - Identify potential issues to communicate to Solutions Architect - Review security reports and alerts
 - Deployability
     - Define CI/CD pipelines (implementation, execution, evolution...) - Review deployment infrastructure
     - Define and review branching strategy
@@ -52,7 +52,7 @@ Architect - Resiliency
 
 ## How you will work
 
-Iberia works in product-oriented teams, with full ownership and autonomy inside their boundaries.
+Iberia works in productooriented teams, with full ownership and autonomy inside their boundaries.
 
 - Methodology
     - Agile (Scrum)
@@ -72,7 +72,7 @@ Iberia works in product-oriented teams, with full ownership and autonomy inside 
     - TBD: Load and Performance testing tool
     - Datadog / Dynatrace
 
-But we’re keen t- know other things that can be of importance: Side projects, other stack knowledge, hidden skills...
+But we’re keen to know other things that can be of importance: Side projects, other stack knowledge, hidden skills...
 
 ## With whom
 
@@ -85,4 +85,4 @@ There are some people that will be able to assist you: There is a Software Engin
 - There is a defined career path in the company s- every software engineer can grow
 - Flexible work hours (with some hot hours in Spain time)
 - Mainly remote – there will be some presential sessions in La Muñoza (Madrid)
-- We are investing in your training, s- of course we would like for you t- stay in Iberia for a long time
+- We are investing in your training, s- of course we would like for you to stay in Iberia for a long time
