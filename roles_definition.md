@@ -95,6 +95,21 @@ A quality assurance engineer in Iberia is responsible for implementing testing s
 - Roadmap vision
   - A sprint
 
+## Scrum master
+
+The scrum master's responsibilities include ensuring that development teams follow scrum framework values and agile practices, mentoring and motivating the teams to improve processes, facilitating meetings and decision-making processes, and eliminating team impediments.
+
+- Primary objective is to ensure that the agile methodology is successful (understood and adopted). Promote agile mindset, values and principles to the member of the tribe or product team.
+  - Role experience: + 3 years
+  - Overall work experience: +8 years
+- Train in the agile roles responsibilities (PO, developers, QA, stakeholders…) and help member of tribe or product team to make decisions
+- Create a good environment of work, encourage personal development and supports the commitment made by tribe. Facilitate the cooperation between squads of the tribe. Inspection wellbeing and give feedback of member of the tribe or product team.
+- Act as facilitator in agile ceremonies or other dynamics.
+- Ensure the alignment between squads of the tribe and ensure compliance of the agreements adopted.
+- Ensure efficiency and continuous improvement of the tribe or product team through agile metrics in the areas of quality, predictability, value and velocity.
+- Manage and optimizes the flow of value. Remove impediments and support to resolve dependencies of the tribes or product teams.
+- Actively engaged in Scrum Agile Community.
+
 ## Solution architect
 
 A Solution architect in Iberia is responsible for bridging between product ownership, technical architects, the teams and technical architects. Its responsible for the architecture of multiple solutions. Solution architects are expected to have a very proactive attitude and work totally independent.
