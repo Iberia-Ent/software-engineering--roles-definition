@@ -1,14 +1,12 @@
 ![](../static/iberia.png)
 
-# Senior QA Engineer for Digital Resilience
+# QA Engineer
 
 ## What you will do
 
-We&#39;re looking for a senior QA engineer to join our digital resilience team.
+We're looking for a Scrum Master to join our Iberia team.
 
 This team is entrusted with renovating the platform introducing state of the art observability, CI/CD improvements, hotspots and critical paths optimization, possibly rewriting and converting to serverless strategic components, increasing test coverage including load, performance and synthetic testing...
-
-This project is key to Iberia and has high visibility and impact in the company.
 
 ## What we expect from you
 
@@ -72,11 +70,11 @@ Iberia works in product-oriented teams, with full ownership and autonomy inside 
   - Cypress (JS)
   - Jest (JS)
   - NUnit (.NET)
-  - Datadog / Dynatrace
+  - Dynatrace
   - TBD: Load and Performance testing tool
   - Cloud (AWS)
 
-But we&#39;re keen to know other things that can be of importance: Side projects, other stack knowledge, hidden skills…
+But we're' keen to know other things that can be of importance: Side projects, other stack knowledge, hidden skills…
 
 ## With whom
 

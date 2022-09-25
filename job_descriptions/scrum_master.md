@@ -1,22 +1,18 @@
 ![](../static/iberia.png)
 
-# Scrum Master for Digital Resilience
+# Scrum Master
 
 ## What you will do
 
-We're looking for a Scrum Master to join our digital resilience team.
+We're looking for a Scrum Master to join our Iberia team.
 
 This team is entrusted with renovating the platform introducing state of the art observability, CI/CD improvements, hotspots and critical paths optimization, possibly rewriting and converting to serverless strategic components, increasing test coverage including load, performance and synthetic testing...
-
-This project is key to Iberia and has high visibility and impact in the company.
 
 ## What we expect from you
 
 The scrum master's responsibilities include ensuring that development teams follow scrum framework values and agile practices, mentoring and motivating the teams to improve processes, facilitating meetings and decision-making processes, and eliminating team impediments.
 
 - Primary objective is to ensure that the agile methodology is successful (understood and adopted). Promote agile mindset, values and principles to the member of the tribe or product team.
-  - **Role experience:** + 3 years
-  - **Overall work experience:** +8 years
 - Train in the agile roles responsibilities (PO, developers, QA, stakeholders…) and help member of tribe or product team to make decisions
 - Create a good environment of work, encourage personal development and supports the commitment made by tribe. Facilitate the cooperation between squads of the tribe. Inspection wellbeing and give feedback of member of the tribe or product team.
 - Act as facilitator in agile ceremonies or other dynamics.
