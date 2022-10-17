@@ -75,12 +75,6 @@ Iberia works in product-oriented teams, with full ownership and autonomy inside 
   - Relational, key-value and document Databases
   - Continuous Integration
   - Infrastructure as code
-- Stack
-  - Cloud (AWS) including serverless
-  - GitHub with Actions
-  - Hexagonal and Event Driven architectures
-  - Java
-  - Spring Boot
 
 But we are keen to know other things that can be of importance: Side projects, other stack knowledge, hidden skills…
 

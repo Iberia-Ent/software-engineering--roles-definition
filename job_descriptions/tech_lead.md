@@ -64,13 +64,6 @@ Iberia works in productooriented teams, with full ownership and autonomy inside 
     - Infrastructure as code
     - Application Performance Analysis
     - Performance and load testing
-- Stack
-    - Cloud (AWS) including serverless
-    - GitHub with Actions
-    - Hexagonal and Event Driven architectures - Java with Spring Boot
-    - JS with Angular
-    - TBD: Load and Performance testing tool
-    - Datadog / Dynatrace
 
 But we’re keen to know other things that can be of importance: Side projects, other stack knowledge, hidden skills...
 

@@ -74,13 +74,6 @@ Iberia works in product-oriented teams, with full ownership and autonomy inside 
   - Object Oriented Programming and Design
   - Continuous Integration
   - Infrastructure as code
-- Stack
-  - Cloud (AWS) including serverless
-  - GitHub with Actions
-  - Figma
-  - Angular and AngularJS
-  - Jest and Cypress JS
-  - Design System with StencilJS
 
 But we&#39;re keen to know other things that can be of importance: Side projects, other stack knowledge, hidden skills…
 
