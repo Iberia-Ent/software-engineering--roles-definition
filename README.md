@@ -8,8 +8,7 @@ You will find a template and examples to work with Job Descriptions for a recrui
 
 - [Scrum Master](./job_descriptions/scrum_master.md)
 - [Tech Lead](./job_descriptions/tech_lead.md)
-- [Backend Engineer](./job_descriptions/java_engineer.md)
-- [FrontEnd Engineer](./job_descriptions/frontend_engineer.md)
+- [Software Engineer](./job_descriptions/software_engineer.md)
 - [Cloud Engineer](./job_descriptions/cloud_engineer.md)
 - [QA Engineer](./job_descriptions/qa_engineer.md)
 
