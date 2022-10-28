@@ -65,14 +65,6 @@ Iberia works in product-oriented teams, with full ownership and autonomy inside 
   - Performance and load testing
   - Synthetic testing
   - Exploratory/Manual testing
-- Stack
-  - Junit (Java)
-  - Cypress (JS)
-  - Jest (JS)
-  - NUnit (.NET)
-  - Dynatrace
-  - TBD: Load and Performance testing tool
-  - Cloud (AWS)
 
 But we're' keen to know other things that can be of importance: Side projects, other stack knowledge, hidden skills…
 

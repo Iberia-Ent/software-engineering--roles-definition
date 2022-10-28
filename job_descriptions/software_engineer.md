@@ -1,10 +1,12 @@
 ![](../static/iberia.png)
 
-# Senior Frontend Engineer
+# Senior Java Backend Engineer
 
 ## What you will do
 
-You might be part of creating new solutions using design systems with new libraries, or migrating to the cloud and upgrading legacy systems while including automated tests.
+We’re looking for a senior Java developer to join Iberia team.
+
+This team is entrusted with evolving a digital platform with a continuous demand of digital features and improving digital channel capabilities. In this team you will adopt extreme programming practices, CI/CD pipelines and cloud adoption.
 
 ## What we expect from you
 
@@ -60,8 +62,6 @@ A senior software engineer in Iberia is responsible for specific user story impl
 - Roadmap vision
   - A few sprints
 
-We would love to hear your experience in these tasks in previous jobs.
-
 ## How you will work
 
 Iberia works in product-oriented teams, with full ownership and autonomy inside their boundaries.
@@ -72,17 +72,11 @@ Iberia works in product-oriented teams, with full ownership and autonomy inside 
   - Test Driven Development
   - Domain Driven Design
   - Object Oriented Programming and Design
+  - Relational, key-value and document Databases
   - Continuous Integration
   - Infrastructure as code
-- Stack
-  - Cloud (AWS) including serverless
-  - GitHub with Actions
-  - Figma
-  - Angular and AngularJS
-  - Jest and Cypress JS
-  - Design System with StencilJS
 
-But we&#39;re keen to know other things that can be of importance: Side projects, other stack knowledge, hidden skills…
+But we are keen to know other things that can be of importance: Side projects, other stack knowledge, hidden skills…
 
 ## With whom
 
@@ -93,6 +87,6 @@ There are some people that will be able to assist you: There is a Software Engin
 ## The goods
 
 - There is a defined career path in the company so every software engineer can grow
-- Flexible work hours (with some hot hours in Spain time)
+- Flexible work hours
 - Mainly remote – there will be some presential sessions in La Muñoza (Madrid)
 - We are investing in your training, so of course we would like for you to stay in Iberia for a long time
