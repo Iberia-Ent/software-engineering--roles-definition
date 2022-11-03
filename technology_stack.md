@@ -15,7 +15,6 @@
 
 - C# (.NET Framework & .NET Core & .NET 6)
     - NUnit (.NET)
-- GraphQL
 - REST API's
 
 ## Stack #1.3: Backend Node
@@ -33,6 +32,15 @@
 - JS with Angular
     - Jest and Cypress JS
 
+## Stack #1.5: Frontend ReactJS
+
+### Languages & Frameworks
+
+- ReactJS
+    - Jest and Cypress JS
+- GraphQL
+- REST API's
+    
 ## Common
 
 ### Tools
