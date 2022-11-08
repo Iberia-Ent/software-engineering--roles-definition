@@ -1,16 +1,16 @@
 ![](../static/iberia.png)
 
-# Senior Java Backend Engineer
+# Software Engineer
 
 ## What you will do
 
-We’re looking for a senior Java developer to join Iberia team.
+We’re looking for a Software Engineer to join Iberia team.
 
 This team is entrusted with evolving a digital platform with a continuous demand of digital features and improving digital channel capabilities. In this team you will adopt extreme programming practices, CI/CD pipelines and cloud adoption.
 
 ## What we expect from you
 
-A senior software engineer in Iberia is responsible for specific user story implementation. The senior software engineer is expected a proactive attitude and to work with ample autonomy.
+A Software Engineer in Iberia is responsible for specific user story implementation. The Software Engineer is expected a proactive attitude and to work with ample autonomy.
 
 - Functional requirements
   - 3 amigos with QA and PO (Story level)
