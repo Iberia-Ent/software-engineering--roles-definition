@@ -4,7 +4,7 @@
 
 ## What you will do
 
-We're looking for a Scrum Master to join our Iberia team.
+We're looking for a QA Engineer to join our Iberia team.
 
 This team is entrusted with renovating the platform introducing state of the art observability, CI/CD improvements, hotspots and critical paths optimization, possibly rewriting and converting to serverless strategic components, increasing test coverage including load, performance and synthetic testing...
 
