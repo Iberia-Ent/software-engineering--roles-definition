@@ -40,7 +40,13 @@
     - Jest and Cypress JS
 - GraphQL
 - REST API's
-    
+
+## Stack #1.6: Cloud Engineer
+### Languages & Frameworks
+- EKS / ECS fargate (mostly)
+- Hub & Spoke networks
+- Terraform is a must
+
 ## Common
 
 ### Tools
