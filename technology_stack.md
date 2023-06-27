@@ -41,7 +41,7 @@
 - GraphQL
 - REST API's
 
-## Stack #1.6: Cloud Engineer
+## Stack #1.6: AWS
 ### Languages & Frameworks
 - EKS / ECS fargate (mostly)
 - Hub & Spoke networks
