@@ -65,8 +65,7 @@ But, you need to understand also:
   - Test Driven Development, Domain Driven Design
   - Object Oriented Programming and Design
   - Hexagonal and Event Driven architectures
-  - Java with Spring Boot
-  - JS with Angular
+  - Focused on Product Development Team
 
 But we’re keen to know other things that can be of importance: Side projects, other stack knowledge, hidden skills…
 
