@@ -6,11 +6,12 @@ Roles definition, career path and job descriptions by [competency matrix](./comp
 
 You will find a template and examples to work with Job Descriptions for a recruitment process:
 
-- [Scrum Master](./job_descriptions/scrum_master.md)
-- [Tech Lead](./job_descriptions/tech_lead.md)
-- [Software Engineer](./job_descriptions/software_engineer.md)
 - [Cloud Engineer](./job_descriptions/cloud_engineer.md)
 - [QA Engineer](./job_descriptions/qa_engineer.md)
+- [Scrum Master](./job_descriptions/scrum_master.md)
+- [Software Engineer](./job_descriptions/software_engineer.md)
+- [Solutions Architect](./job_descriptions/solution_architect.md)
+- [Tech Lead](./job_descriptions/tech_lead.md)
 
 ## Technology stack
 
