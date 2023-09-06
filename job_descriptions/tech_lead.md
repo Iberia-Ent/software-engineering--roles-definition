@@ -33,14 +33,14 @@ A technical lead in Iberia is responsible for coordinating epic implementations.
     - Review and support team on implementing load tests
 - Testing
     - Define and review functional testing strategy in collaboration with QA and Solutions
-Architect - Resiliency
+Architect 
+- Resiliency
     - Define stability patterns (e.g. circuit breaker, retry policy...) - Implementation - guide the team through software implementation
     - Pair/Mob programming
     - Code review
     - Coordinate (epic) software development teamwork
 - Architecture and Design
     - Design sessions with the team, Solutions Architect and Software Engineering
- 
     - Communicate with Software Engineering for a common vision
     - Communicate with other Tech Leads - Mentoring
     - 1:1 with developers
@@ -77,5 +77,5 @@ There are some people that will be able to assist you: There is a Software Engin
 
 - There is a defined career path in the company s- every software engineer can grow
 - Flexible work hours (with some hot hours in Spain time)
-- Mainly remote – there will be some presential sessions in La Muñoza (Madrid)
-- We are investing in your training, s- of course we would like for you to stay in Iberia for a long time
+- Madrid Based presential work
+- We are investing in your training, so of course we would like for you to stay in Iberia for a long time
