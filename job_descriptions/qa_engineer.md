@@ -34,10 +34,10 @@ A senior quality assurance engineer in Iberia is responsible for defining and im
   - Review load tests in collaboration with Tech Leads and Solution Architects
 - Testing
   - Define and review testing strategy in collaboration with teams following Agile Test Quadrants and Testing Pyramid
-  - Define tests in every ambit: Unit, acceptance, contract, e2e, UI, A11y, load, performance, synthetic…
+  - Define tests in every ambit: Unit, acceptance, contract, e2e, UI, A11y, load, performance, synthetic...
   - Review tests created by the teams
 - Resiliency
-  - Test stability patterns (e.g. circuit breaker, retry policy…)
+  - Test stability patterns (e.g. circuit breaker, retry policy...)
 
 - Implementation
 
@@ -66,17 +66,14 @@ Iberia works in product-oriented teams, with full ownership and autonomy inside 
   - Synthetic testing
   - Exploratory/Manual testing
 
-But we're' keen to know other things that can be of importance: Side projects, other stack knowledge, hidden skills…
+But we are keen to know other things that can be of importance: Side projects, other stack knowledge, hidden skills...
+
+You will work with spanish people and read and write requirements and technical documentation in English, so you will need to know these languages at this level.
+
+**There is a defined career path in the company so every software engineer can grow**
 
 ## With whom
 
 You will be a part of an agile team with its Product Owner, QA, Scrum Master, etc.
 
 There are some people that will be able to assist you: There is a Software Engineering Team that can help with architectural, design, or other high-level problems; there are devops and cloud engineers to help in more specific needs, some key roles such as Tech Leads and Solutions Architects to support and guide you... You will not be alone.
-
-## The goods
-
-- There is a defined career path in the company so every software engineer can grow
-- Flexible work hours
-- Mainly remote – there will be some presential sessions in La Muñoza (Madrid)
-- We are investing in your training, so of course we would like for you to stay in Iberia for a long time
