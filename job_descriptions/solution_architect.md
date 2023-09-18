@@ -36,10 +36,3 @@ You will work with spanish people and read and write requirements and technical 
 ## With whom
 
 You will work closely with a Solution Architect and will be able to get assistance from various teams such as Software Engineering Team, DevOps and Cloud Engineers, Tech Leads, and Solutions Architects. You will not be alone.
-
-## The goods
-
-- There is a defined career path in the company so every software engineer can grow
-- Flexible work hours (with some hot hours in Spain time)
-- Mainly remote – there will be some presential sessions in La Muñoza (Madrid)
-- We are investing in your training, so of course we would like for you to stay in Iberia for a long time

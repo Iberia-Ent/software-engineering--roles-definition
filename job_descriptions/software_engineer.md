@@ -59,8 +59,7 @@ A Software Engineer in Iberia is responsible for specific user story implementat
 - Recruiting
   - Onboarding (specific tasks – ex. team practices onboarding)
   - Technical interviews (shadowing)
-- Roadmap vision
-  - A few sprints
+- Roadmap vision of a few sprints
 
 ## How you will work
 
@@ -76,17 +75,14 @@ Iberia works in product-oriented teams, with full ownership and autonomy inside 
   - Continuous Integration
   - Infrastructure as code
 
-But we are keen to know other things that can be of importance: Side projects, other stack knowledge, hidden skills…
+But we are keen to know other things that can be of importance: Side projects, other stack knowledge, hidden skills...
+
+You will work with spanish people and read and write requirements and technical documentation in English, so you will need to know these languages at this level.
+
+**There is a defined career path in the company so every software engineer can grow**
 
 ## With whom
 
 You will be a part of an agile team with its Product Owner, QA, Scrum Master, etc.
 
 There are some people that will be able to assist you: There is a Software Engineering Team that can help with architectural, design, or other high-level problems; there are devops and cloud engineers to help in more specific needs, some key roles such as Tech Leads and Solutions Architects to support and guide you... You will not be alone.
-
-## The goods
-
-- There is a defined career path in the company so every software engineer can grow
-- Flexible work hours
-- Mainly remote – there will be some presential sessions in La Muñoza (Madrid)
-- We are investing in your training, so of course we would like for you to stay in Iberia for a long time
