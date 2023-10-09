@@ -1,6 +1,10 @@
 # Software Engineering Roles Definition
 
-Roles definition, career path and job descriptions by [competency matrix](./competency-matrix.md).
+Roles definition, career path and job descriptions by these career paths:
+
+- [Software Engineering](./swe-competency-matrix.md),
+- [Quality Assurance](./qa-competency-matrix.md),
+- [UI Engineering](./ui-competency-matrix.md).
 
 ## Roles and Job Descriptions
 
