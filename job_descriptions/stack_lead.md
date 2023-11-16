@@ -4,7 +4,7 @@
 
 ## Your Impact
 
-Join us as a pivotal member of our dynamic team, taking on the role of Stack (UX/QA/Backend...) Lead. Your expertise will shape the technological landscape within our organization, influencing both products and people. As a beacon of innovation, you'll guide our teams toward excellence, foster growth, and champion best practices.
+Join us as a pivotal member of our dynamic team, taking on the role of Stack (UX/UI, QA...) Lead. Your expertise will shape the technological landscape within our organization, influencing both products and people. As a beacon of innovation, you'll guide our teams toward excellence, foster growth, and champion best practices.
 
 ## Responsibilities
 
