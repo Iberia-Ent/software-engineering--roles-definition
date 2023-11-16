@@ -1,6 +1,6 @@
 ![](../static/iberia.png)
 
-# Stack (UX/QA/Backend...) Lead 
+# Stack (UX/UI, QA...) Lead 
 
 ## Your Impact
 
