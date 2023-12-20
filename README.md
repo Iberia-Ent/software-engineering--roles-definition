@@ -6,6 +6,7 @@ Roles definition, career path and job descriptions by these career paths:
 - [Quality Assurance](./qa-competency-matrix.md),
 - [UI Engineering](./ui-competency-matrix.md).
 - [Backend career path](./backend-competency-matrix.md)
+- [Frontend career path](./frontend-competency-matrix.md)
 
 ## Roles and Job Descriptions
 
