@@ -11,44 +11,43 @@ This team is entrusted with evolving a digital platform with a continuous demand
 ## What we expect from you
 
 A technical lead in Iberia is responsible for the technical development practices of product teams. It’s the owner of the technical debt backlog and serves as an interface between product owners, architecture, and the teams. The technical lead is expected to have a very proactive attitude and work totally independent.
+- Maintainability
+    - Guide through design patterns (e.g. circuit breaker, retry policy...) and software implementation best practices
+    - Pair/Mob programming
+    - Code reviews
+- Code Quality
+    - Manage library dependencies (Updates, deprecations, changes, sizes...)
+    - Manage tools like sonar, linter
+- Testing
+    - Guide testing practices following the strategy and plan from QA
+    - Review test coverage
 - Functional requirements
     - 3 amigos with QA and PO (epic level)
     - Challenge feature implementation and identify conflictive features to remove - Guide more junior roles following the defined solutions
     - Coordinate software development on epics and other concrete tasks
-    - Promote Pair/Mob programming
+- Deployability
+    - Define CI/CD pipelines (implementation, execution, evolution...)
+    - Review deployment infrastructure
+    - Define and review branching strategy
+- Security
+    - Identify potential issues to be managed and technical debt
+    - Review security reports and alerts
 - Observability
     - Review definitions with Solutions Architect - Review APM tools (e.g. Dynatrace)
     - Define alerts with QA
     - Review application events and technical logs
-- Security
-    - Identify potential issues to communicate to Solutions Architect - Review security reports and alerts
-- Deployability
-    - Define CI/CD pipelines (implementation, execution, evolution...) - Review deployment infrastructure
-    - Define and review branching strategy
-- Code Quality
-    - Manage library dependencies (Updates, deprecations, changes, sizes...) - Manage tools like sonar, linter
-- Performance
-    - Review and support team on implementing performance tests - Review and support team on implementing synthetic tests
-- Scalability
+- Performance and Scalability
     - Review and support team on implementing load tests
-- Testing
-    - Define and review functional testing strategy in collaboration with QA and Solutions
-Architect 
-- Resiliency
-    - Define stability patterns (e.g. circuit breaker, retry policy...) - Implementation - guide the team through software implementation
-    - Pair/Mob programming
-    - Code review
-    - Coordinate (epic) software development teamwork
+    - Review and support team on implementing performance and synthetic tests
 - Architecture and Design
     - Design sessions with the team, Solutions Architect and Software Engineering
     - Communicate with Software Engineering for a common vision
     - Communicate with other Tech Leads - Mentoring
     - 1:1 with developers
-    - Identify skill shortcomings and propose solutions (e.g. trainings) - Support SwE and SA on implementing best practices in the teams
+    - Identify skill shortcomings and propose solutions (e.g. trainings)
 - Recruiting
     - Onboarding
-    - Technical interviews - Roadmap vision
-    - Multiple sprints
+    - Offboarding
 
 ## How you will work
 
