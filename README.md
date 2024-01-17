@@ -16,6 +16,7 @@ You will find a template and examples to work with Job Descriptions for a recrui
 - [Software Engineer](./job_descriptions/software_engineer.md)
 - [Solutions Architect (SA)](./job_descriptions/solution_architect.md)
 - [Tech Lead (TL)](./job_descriptions/tech_lead.md)
+- [Developer Relations Manager](./job_descriptions/devrel.md)
 - [Subject Matter Expert (SME)](./job_descriptions/subject_matter_expert.md)
 
 ## Technology stack
