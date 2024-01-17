@@ -10,7 +10,7 @@ This team is entrusted with evolving a digital platform with a continuous demand
 
 ## What we expect from you
 
-A technical lead in Iberia is responsible for coordinating epic implementations. It’s the owner of the technical debt backlog and serves as an interface between business, architecture, and the teams. The technical lead is expected to have a very proactive attitude and work totally independent.
+A technical lead in Iberia is responsible for the technical development practices of product teams. It’s the owner of the technical debt backlog and serves as an interface between product owners, architecture, and the teams. The technical lead is expected to have a very proactive attitude and work totally independent.
 - Functional requirements
     - 3 amigos with QA and PO (epic level)
     - Challenge feature implementation and identify conflictive features to remove - Guide more junior roles following the defined solutions
