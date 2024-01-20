@@ -11,6 +11,7 @@ This team is entrusted with evolving a digital platform with a continuous demand
 ## What we expect from you
 
 A technical lead in Iberia is responsible for the technical development practices of product teams. It’s the owner of the technical debt backlog and serves as an interface between product owners, architecture, and the teams. The technical lead is expected to have a very proactive attitude and work totally independent.
+
 - Maintainability
     - Guide through design patterns (e.g. circuit breaker, retry policy...) and software implementation best practices
     - Pair/Mob programming
@@ -39,15 +40,6 @@ A technical lead in Iberia is responsible for the technical development practice
 - Performance and Scalability
     - Review and support team on implementing load tests
     - Review and support team on implementing performance and synthetic tests
-- Architecture and Design
-    - Design sessions with the team, Solutions Architect and Software Engineering
-    - Communicate with Software Engineering for a common vision
-    - Communicate with other Tech Leads - Mentoring
-    - 1:1 with developers
-    - Identify skill shortcomings and propose solutions (e.g. trainings)
-- Recruiting
-    - Onboarding
-    - Offboarding
 
 ## How you will work
 
