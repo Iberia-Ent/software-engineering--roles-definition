@@ -1,115 +1,162 @@
-| | | | | | | | | |
-|-|-|-|-|-|-|-|-|-|
-| |Skill|Descripción|Developer Junior|Developer Junior Advance|Semi-senior dev|Semi-senior advanced dev|Senior Java dev|TL|
-|SQL|Sintaxis|Comprensión de la sintaxis, las cláusulas, las funciones y las operaciones básicas y avanzadas que ofrece. Esto es esencial para escribir consultas eficientes y efectivas que puedan recuperar, manipular y administrar datos de manera adecuada.|X|X|X|X|X|X|
-| |Optimización de Consultas|Esto implica entender cómo funcionan los motores de bases de datos, cómo se ejecutan las consultas y cómo afectan los índices, las claves primarias y extranjeras, y otras estructuras de datos. Un buen desarrollador debe ser capaz de diseñar consultas que sean eficientes en términos de rendimiento y que minimicen la carga en la base de datos.| | |X|X|X|X|
-| |Modelado de Bases de Datos| Esto incluye la capacidad de crear esquemas de bases de datos que sean eficientes y escalables, diseñar relaciones adecuadas entre tablas, modelar los datos en los tipos más adecuados para cada base de datos y comprender cómo mantener la integridad de los datos a través de restricciones y reglas. Además, debe conocer las diferentes formas normales y cómo aplicarlas para evitar problemas de redundancia y anomalías en los datos. | | |X|X|X|X|
-|OOP & Programming|Comprensión de Conceptos Fundamentales de POO|Debe tener un sólido entendimiento de los conceptos fundamentales de la programación orientada a objetos, como clases, objetos, herencia, encapsulación y polimorfismo. Estos conceptos forman la base de la POO y son esenciales para escribir código modular y mantenible.|X|X|X|X|X|X|
-| |Habilidad en el Diseño de Clases y Relaciones|Debe ser capaz de diseñar clases de manera efectiva, identificando atributos y métodos relevantes para representar objetos del mundo real. Además, deben comprender cómo establecer relaciones entre clases, incluyendo relaciones de herencia, composición y asociación. CRC Cards| | |X|X|X|X|
-| |Habilidad en el Uso de Encapsulación y Abstracción|Debe comprender y aplicar adecuadamente los conceptos de encapsulación y abstracción. La encapsulación implica ocultar los detalles internos de una clase y exponer solo la interfaz necesaria para interactuar con ella, lo que mejora la seguridad y el mantenimiento del código. La abstracción implica identificar las características esenciales de un objeto y enfocarse en ellas, ignorando los detalles innecesarios.| |X|X|X|X|X|
-| |Diseño Centrado en Objetos y Responsabilidades Claras|Debe ser capaz de dividir el sistema en objetos significativos con responsabilidades específicas. Cada objeto debería tener un propósito claro y una función definida dentro del sistema. Esto contribuye a un diseño coherente y modular, permitiendo cambios y extensiones más fáciles en el futuro| | |X|X|X|X|
-| |Clean Code|POJO, Clausulas guarda, KISS, descomponer problemas en partes, code smells, refactoring|X|X|X|X|X|X|
-| |SOLID|Conocimiento sólido sobre los principios SOLID, que son un conjunto de cinco principios de diseño de software que promueven la creación de código limpio, modular y mantenible.  Principio de Responsabilidad Única  Principio de Abierto/Cerrado  Principio de Sustitución de Liskov  Principio de Segregación de Interfaces  Principio de Inversión de Dependencia|X|X|X|X|X|X|
-|Design Patterns|Conocimiento de Patrones de Diseño Comunes|Debe estar familiarizado con una variedad de patrones de diseño comunes, como los patrones creacionales (Factory, Singleton), estructurales (Adapter, Decorator, Fachade) y de comportamiento (Observer, Strategy, Builder, Composite). Debe comprender cuándo y cómo aplicar estos patrones para resolver problemas específicos de diseño.  Conocimiento de antipatrones.|X|X|X|X|X|X|
-| |Comprender los Contextos de Uso|Debe saber en qué situaciones se pueden aplicar los diferentes patrones de diseño. Esto implica reconocer los problemas de diseño recurrentes que los patrones resuelven y determinar si un patrón encaja bien en un contexto de diseño particular.| | |X|X|X|X|
-| |Habilidad para Adaptar Patrones a Situaciones|debe ser capaz de adaptar y personalizar los patrones de diseño según las necesidades específicas del proyecto. Esto puede involucrar la modificación de un patrón para ajustarse al entorno tecnológico o a los requisitos del sistema.| |X|X|X|X|X|
-| |Conocer las Ventajas y Desventajas de los Patrones|debe comprender las ventajas y desventajas de la aplicación de un patrón de diseño. Esto incluye saber cuándo un patrón puede simplificar el diseño, pero también estar consciente de cómo ciertos patrones pueden agregar complejidad innecesaria si se aplican incorrectamente.|X|X|X|X|X|X|
-|Java|Fundamentos del Lenguaje y Sintaxis|En este grupo se incluyen los conceptos básicos del lenguaje Java, como variables, tipos de datos, operadores y estructuras de control (condicionales y bucles). También se abarcan aspectos como la declaración y definición de clases y métodos, la gestión de objetos y la manipulación de cadenas.|X|X|X|X|X|X|
-| |Gestión de Datos y estructuras|En este grupo se encuentran temas relacionados con la manipulación de datos y el almacenamiento de información. Incluye el uso de estructuras de datos como listas, conjuntos y mapas, así como la programación orientada a objetos en relación con la encapsulación, la herencia y el polimorfismo.|X|X|X|X|X|X|
-| |Entrada/Salida y Manejo de Excepciones|Aquí se cubre cómo interactuar con el mundo exterior a través de la entrada y salida de datos, tanto desde la consola como desde archivos. También se incluye el manejo de excepciones para controlar y gestionar situaciones inesperadas o errores en el código.|X|X|X|X|X|X|
-| |Concurrencia y Programación Multihilo |Este grupo se centra en cómo diseñar y gestionar aplicaciones que ejecutan múltiples hilos de ejecución de manera concurrente. | | |X|X|X|X|
-|Web|HTML y CSS|Un Backend Developer debe tener un conocimiento básico de HTML (HyperText Markup Language) y CSS (Cascading Style Sheets) para comprender cómo se estructura y se estiliza el contenido en el lado del cliente. Esto permite una mejor colaboración en términos de integración del frontend con el backend y facilita la resolución de problemas relacionados con la apariencia y el diseño.|X|X|X|X|X|X|
-| |JavaScript y Frameworks Frontend|Tener un entendimiento básico de JavaScript y los conceptos de programación en el lado del cliente es valioso para un Backend Developer. Además, estar familiarizado con frameworks frontend populares como React permite una comunicación más efectiva con los Frontend Developers y una mejor comprensión de cómo se construyen las interfaces de usuario interactivas.| | |X|X|X|X|
-| |Diseño Responsivo y Experiencia del Usuario: |Tener conocimientos básicos sobre diseño responsivo y buenas prácticas de experiencia del usuario (UX) ayuda a un Backend Developer a entender cómo su trabajo impacta en la presentación y la usabilidad de la aplicación. Esto es especialmente importante para garantizar que las API y los datos proporcionados por el backend se adapten de manera efectiva a diferentes dispositivos y tamaños de pantalla.| | |X|X|X|X|
-|Algorithms & Structures.|Estructuras de Datos Fundamentales |Dominar estructuras de datos esenciales como arrays, listas enlazadas, pilas, colas. Comprender cómo se implementan y cuándo usar cada una de estas estructuras para diferentes situaciones.| | | |X|X|X|
-| |Complejidad y Optimización: |Comprender la notación Big O y ser capaz de analizar la complejidad temporal y espacial de los algoritmos. Saber cómo optimizar algoritmos y estructuras de datos para mejorar la eficiencia y minimizar el uso de recursos.| | |X|X|X|X|
-|Git|Repositorios y Commits |Comprender qué es un repositorio en Git: una base de datos que almacena todos los cambios y versiones de un proyecto. Conocer cómo realizar un "commit", que es un registro de los cambios realizados en los archivos y carpetas del repositorio. Entender cómo escribir mensajes de commit significativos y descriptivos para documentar los cambios.|X|X|X|X|X|X|
-| |Ramificación y Fusión |Saber cómo crear ramas en Git para trabajar en nuevas características o soluciones sin afectar la rama principal (normalmente llamada "master" o "main"). Conocer cómo fusionar ramas utilizando herramientas como "merge" o "rebase" para incorporar los cambios de una rama a otra. Entender las prácticas recomendadas al trabajar con ramas, como la creación de ramas de características y la solicitud de extracción ("pull request" en inglés) para la integración de código.| |X|X|X|X|X|
-| |Conflictos y Resolución |Estar preparado para manejar conflictos de fusión que puedan ocurrir cuando dos ramas tienen cambios en las mismas partes de un archivo. Comprender cómo resolver conflictos manualmente modificando el código en conflicto y luego marcando el conflicto como resuelto. Saber cómo usar herramientas como "git diff" y "git mergetool" para resolver conflictos de manera más efectiva.| |X|X|X|X|X|
-| |Flujo de Trabajo y Colaboración Gitflow - github flow|Conocer un flujo de trabajo básico, como el flujo de trabajo de rama única o el flujo de trabajo de ramas de características. Comprender cómo colaborar en proyectos con otros desarrolladores utilizando ramas compartidas, solicitudes de extracción y revisión de código. Familiarizarse con plataformas de alojamiento de repositorios como GitHub o GitLab y cómo utilizar sus características de colaboración. Conocer en profundidad como en que consisten los tags, releases.  En Github conocer el funcionamiento y la aplicación de secretos, variables, colaboradores, protección de ramas, etc|X|X|X|X|X|X|
-|Scrum|Roles de Scrum |Product Owner: Es responsable de definir los requisitos del producto, priorizar el backlog del producto y tomar decisiones sobre qué funcionalidades se implementarán. Scrum Master: Actúa como facilitador y líder del equipo Scrum, asegurando que se sigan las prácticas de Scrum y eliminando obstáculos para el equipo. Equipo de Desarrollo: Son los miembros del equipo responsables de desarrollar y entregar las funcionalidades del producto en cada iteración.|X|X|X|X|X|X|
-| |Artefactos de Scrum |Product Backlog: Es una lista priorizada de todas las funcionalidades, mejoras y cambios que se desean en el producto. Está en constante evolución y es gestionado por el Product Owner. Sprint Backlog: Es una lista de tareas específicas que el equipo de desarrollo ha comprometido completar durante un sprint en curso. Incremento: Es la versión del producto que incluye todas las funcionalidades completadas al final de un sprint. Debe estar en un estado potencialmente entregable.|X|X|X|X|X|X|
-| |Eventos de Scrum |Sprint: Es un período de tiempo fijo (generalmente de 2 a 4 semanas) en el que el equipo de desarrollo trabaja en la implementación de funcionalidades definidas en el sprint backlog. Reunión de Planificación de Sprint: El equipo de desarrollo se reúne con el Product Owner para definir qué funcionalidades se implementarán durante el próximo sprint y cómo se hará. Reunión Diaria de Scrum: Una reunión corta (15 minutos) en la que el equipo de desarrollo comparte su progreso, actualiza sobre las tareas y discute los posibles obstáculos. Revisión de Sprint: Al final de cada sprint, el equipo demuestra las funcionalidades completadas y recopila comentarios del Product Owner y otras partes interesadas. Retrospectiva de Sprint: Una reunión para que el equipo reflexione sobre el sprint recién completado y determine qué mejoras pueden hacer en el proceso.|X|X|X|X|X|X|
-| |Reglas de Scrum |Autonomía del Equipo: El equipo de desarrollo es autónomo en su trabajo y toma decisiones sobre cómo realizar las tareas. Transparencia: Toda la información sobre el progreso, obstáculos y planificación se comparte abiertamente entre los miembros del equipo y las partes interesadas. Iterativo e Incremental: El desarrollo se realiza en iteraciones cortas (sprints) y se entrega un producto incrementalmente en cada uno. Adaptación: Scrum permite y fomenta la adaptación a medida que se obtienen aprendizajes y se enfrentan cambios en los requisitos.| |X|X|X|X|X|
-| |Conocimiento crítico de scrum|Concer profundamente los conceptos de scrum y cuando deben aplicarse. Ejemplo: Cuando estimar, cuándo son necesarias las reuniones, cuando son necesarios todos los roles, | | | | |X|X|
-|Spring|Inyección de Dependencias (Dependency Injection - DI) |Comprender el concepto de Inyección de Dependencias, que permite separar la creación y administración de objetos de su uso. Saber cómo utilizar anotaciones como @Autowired y configuraciones XML para inyectar dependencias en componentes y servicios de Spring.| |X|X|X|X|X|
-| |Contenedor de Spring |Conocer el Contenedor de Spring, que gestiona los objetos y sus ciclos de vida en una aplicación. Entender los diferentes tipos de contenedores, como el ApplicationContext y el BeanFactory, y cómo se configuran y utilizan.| |X|X|X|X|X|
-| |Aspect-Oriented Programming (AOP) |Familiarizarse con la programación orientada a aspectos, que permite separar la lógica transversal (aspectos) de la lógica principal del negocio. Saber cómo utilizar aspectos y cómo definir "advices", "pointcuts" e "introductions" utilizando anotaciones o configuraciones XML.| | |X|X|X|X|
-| |Módulos Principales de Spring: |Conocer los diferentes módulos principales de Spring, como Spring Core Container, Spring AOP, Spring Data Access/Integration, Spring Web y Spring MVC. Entender cómo cada módulo aborda diferentes aspectos del desarrollo de aplicaciones, como la gestión de objetos, la integración con bases de datos, la creación de aplicaciones web, etc.| | |X|X|X|X|
-|Transactions|Propiedades ACID de las Transacciones|Atomicidad: Las transacciones son atómicas, lo que significa que todas las operaciones en una transacción se ejecutan como una unidad indivisible. Si una operación falla, se revierten todas las operaciones anteriores en la transacción. Consistencia: Las transacciones deben llevar la base de datos de un estado consistente a otro. Los cambios deben cumplir con reglas de integridad y validación. Aislamiento: Las transacciones en ejecución deben ser aisladas unas de otras, lo que significa que los cambios realizados en una transacción no deben ser visibles para otras transacciones hasta que se completen. Durabilidad: Una vez que una transacción se ha confirmado, sus cambios deben ser permanentes y resistentes a fallas del sistema, incluso en caso de fallo del sistema.| |X|X|X|X|X|
-| |Gestión de Transacciones en Java: |Conocer las API de manejo de transacciones proporcionadas por Java, como JTA (Java Transaction API) y las transacciones gestionadas por contenedores como Spring. Entender cómo usar anotaciones como @Transactional en Spring para definir el alcance y el comportamiento de las transacciones.| |X|X|X|X|X|
-| |Niveles de Aislamiento de Transacciones |Saber sobre los diferentes niveles de aislamiento de transacciones, como Read Uncommitted, Read Committed, Repeatable Read y Serializable. Comprender cómo cada nivel de aislamiento afecta la visibilidad de los cambios realizados por otras transacciones.| | | |X|X|X|
-| |Manejo de Excepciones y Rollback |Comprender cómo las excepciones lanzadas dentro de una transacción pueden afectar el estado de la misma. Saber cómo manejar adecuadamente las excepciones y decidir si realizar un "rollback" para revertir los cambios en caso de excepción no controlada.| | |X|X|X|X|
-|REST Services|Recursos y URI|Comprender que los recursos son componentes clave en una arquitectura REST, representados por URL (Uniform Resource Locator) o URIs (Uniform Resource Identifiers). Saber cómo diseñar URIs de manera significativa y jerárquica para representar los recursos y sus relaciones.| |X|X|X|X|X|
-| |Métodos HTTP |Conocer los métodos HTTP estándar utilizados en REST, como GET, POST, PUT y DELETE. Entender cómo estos métodos se relacionan con las operaciones CRUD (Create, Read, Update, Delete) en la base de datos. |X|X|X|X|X|X|
-| |Representación de Recursos |Entender que los recursos pueden ser representados en diferentes formatos, como JSON o XML. Saber cómo convertir objetos Java en representaciones de recursos y viceversa utilizando bibliotecas como Jackson o JAXB.|X|X|X|X|X|X|
-| |Arquitectura HTTP|Niveles restfullness Stateless GraphQL| | | | |X|X|
-| |Estado y Transferencia|Comprender el principio fundamental de REST de transferencia de estado, lo que significa que cada solicitud HTTP debe contener toda la información necesaria para entender y procesar la solicitud. Conocer cómo las respuestas pueden contener códigos de estado HTTP para indicar el resultado de la solicitud (por ejemplo, 200 OK, 404 Not Found).| |X|X|X|X|X|
-|NoSQL|Modelos de Datos NoSQL |Comprender los diferentes modelos de datos en las bases de datos NoSQL, como el modelo de documentos (MongoDB), el modelo de columnas (Cassandra), el modelo de clave-valor (Redis) y el modelo de grafos (Neo4j). Saber cuándo elegir cada modelo según los requisitos y la estructura de los datos.| |X|X|X|X|X|
-| |Escalabilidad y Rendimiento|Conocer cómo las bases de datos NoSQL están diseñadas para manejar cargas de trabajo escalables y distribuidas. Entender conceptos como particionamiento, replicación y consistencia eventual en el contexto de las bases de datos NoSQL.| | |X|X|X|X|
-| |Consultas y Acceso a Datos |Familiarizarse con los métodos de consulta y acceso a datos en las bases de datos NoSQL. Saber cómo realizar operaciones CRUD (Create, Read, Update, Delete) y consultas específicas para cada modelo de datos.| |X|X|X|X|X|
-| |Consistencia y Transacciones |Comprender cómo la consistencia y las transacciones difieren en las bases de datos NoSQL en comparación con las bases de datos relacionales. Conocer en qué casos se prioriza la disponibilidad y la tolerancia a fallos en lugar de la consistencia fuerte. Estos aspectos son esenciales para utilizar y trabajar con bases de datos NoSQL de manera efectiva y aprovechar sus ventajas en el desarrollo de aplicaciones Java. | | | |X|X|X|
-|Logging|API de Logging|Comprender la importancia de utilizar una API de registro de eventos, como "java.util.logging" o "Log4j". Saber cómo configurar y utilizar la API para registrar eventos y mensajes en la aplicación.|X|X|X|X|X|X|
-| |Niveles de Registro |Reconocer los diferentes niveles de registro, como DEBUG, INFO, WARN y ERROR. Comprender cuándo y cómo utilizar cada nivel para registrar eventos relevantes en la aplicación|X|X|X|X|X|X|
-| |Utilización de herramientas observabilidad|(Dynatrace ...)| | |X|X|X|X|
-| |Patrones de Mensajes y Contexto |Saber cómo y cuándo agregar detalles relevantes al registro, como información sobre el contexto, la traza de la pila (stack trace) y otros datos útiles.| | |X|X|X|X|
-|Building/Packaging|Build Tools (Herramientas de Construcción)|Comprender qué son las herramientas de construcción, como Maven. Saber cómo se utilizan para automatizar la compilación, prueba y empaquetado de proyectos Java.|X|X|X|X|X|X|
-| |Proyecto y Configuración del Build |Reconocer la estructura típica de un proyecto construido con Maven , incluyendo el archivo de configuración ( pom.xml )  Comprender cómo se configuran las dependencias, plugins y tareas en estos archivos.| |X|X|X|X|X|
-| |Ciclo de Vida del Build |Saber cómo funciona el ciclo de vida del build en Maven , incluyendo fases como compile, test, package, install y deploy. Entender en qué orden se ejecutan las fases y cómo personalizar el proceso según las necesidades del proyecto.| |X|X|X|X|X|
-| |Empaquetado y Distribución |Reconocer los diferentes tipos de artefactos que pueden generarse en un build, como JAR, WAR y EAR. Comprender cómo empaquetar y distribuir correctamente la aplicación y sus dependencias, y cómo manejar las configuraciones específicas de cada tipo de artefacto.| |X|X|X|X|X|
-|CI/CD|Integración Continua (CI) |Comprender el concepto de Integración Continua y su importancia en el desarrollo de software. Saber cómo se automatiza el proceso de integración de código en un repositorio compartido varias veces al día y cómo se ejecutan pruebas automáticamente.| |X|X|X|X|X|
-| |Herramientas de calidad de código|Sonar, codesync| | |X|X|X|X|
-| |Entrega Continua (CD) |Reconocer el término Entrega Continua y cómo se relaciona con la Integración Continua. Comprender cómo se automatiza el proceso de empaquetado y despliegue de software en entornos de prueba y preproducción de manera continua y consistente.| | |X|X|X|X|
-| |Ciclo de vida detallado| Unit test, acceptance test, contract test, load test….| | | |X|X|X|
-| |Automatización de Pruebas y Tareas |Reconocer la importancia de las pruebas automatizadas en CI/CD. Saber cómo se automatizan tareas como compilación, pruebas unitarias, pruebas de integración y despliegue en un entorno CI/CD.| | |X|X|X|X|
-| |Workflows and pipelines|Github actions.| | | |X|X|X|
-|Persistence Frameworks|ORM (Mapeo Objeto-Relacional) |Comprender qué es un ORM y cómo facilita la comunicación entre objetos Java y una base de datos relacional. Saber cómo se mapean las clases Java a tablas de base de datos y cómo se gestionan las operaciones CRUD (Crear, Leer, Actualizar, Eliminar) de manera transparente.| | |X|X|X|X|
-| |JPA (Java Persistence API)|Reconocer el JPA como una especificación estándar de Java para la gestión de persistencia. Comprender cómo se definen entidades, consultas y relaciones en JPA, y cómo se utilizan las anotaciones para configurar el mapeo.| |X|X|X|X|X|
-| |Hibernate|Saber que Hibernate es una implementación popular de la especificación JPA. Comprender cómo configurar Hibernate mediante archivos de configuración o anotaciones, y cómo gestionar la sesión y las transacciones.| | |X|X|X|X|
-| |JDBC| "Java Database Connectivity," es una API (Interfaz de Programación de Aplicaciones) de Java que permite a los programadores conectar y comunicarse con bases de datos relacionales desde aplicaciones Java. JDBC se utiliza para interactuar con bases de datos como MySQL, PostgreSQL, Oracle, SQL Server y muchos otros sistemas de gestión de bases de datos (DBMS) compatibles con JDBC.|X|X|X|X|X|X|
-| |Consultas JPQL (Java Persistence Query Language) |Reconocer JPQL como un lenguaje de consultas orientado a objetos utilizado en JPA. Saber cómo escribir consultas JPQL para recuperar datos de las bases de datos, incluyendo la sintaxis y las características específicas.| | |X|X|X|X|
-|Arquitectura|Arquitectura Hexagonal (Arquitectura Ports and Adapters) |Comprender el concepto de Arquitectura Hexagonal y cómo se enfoca en separar la lógica de negocio central de los detalles de la interfaz de usuario y la infraestructura. Saber cómo se definen los "puertos" (interfaces) y los "adaptadores" (implementaciones) para permitir la comunicación entre capas| | |X|X|X|X|
-| |Event-Driven Architecture (Arquitectura Orientada a Eventos) |Reconocer el enfoque de la Arquitectura Orientada a Eventos y su énfasis en la comunicación basada en eventos entre componentes. Comprender cómo los eventos, productores de eventos y consumidores de eventos interactúan en esta arquitectura.| | | |X|X|X|
-| |Event Sourcing (Almacenamiento de Eventos)|Saber qué es el Event Sourcing y cómo difiere del enfoque tradicional de almacenamiento de datos. Comprender cómo se almacenan los cambios en el estado de una aplicación como una secuencia de eventos y cómo se pueden reconstruir estados anteriores.| | | |X|X|X|
-| |Twelve-Factor App|Conocimientos de la metodología twelve-factor para la construcción de aplicaciones SaaS| | |X|X|X|X|
-| |Uso de arquitecturas|Conocer cual es la mejor arquitectura para un problema determinado y saber aplicarlo.| | | | |X|X|
-| |Programación Reactiva |Comprender qué es la programación reactiva y cómo difiere de la programación tradicional. Reconocer la importancia de manejar flujos de datos asíncronos y eventos en tiempo real de manera eficiente.  Manejo de Concurrencia y Backpressure  Comprender cómo la programación reactiva aborda los problemas de concurrencia y el desbordamiento de datos (backpressure). Reconocer las estrategias para manejar situaciones en las que la velocidad de producción de datos supera la velocidad de consumo| | | | |X|X|
-| |CQRS (Command Query Responsibility Segregation)|Reconocer el patrón CQRS y cómo se relaciona con la Arquitectura Hexagonal y de Eventos. Saber cómo separar la responsabilidad de las operaciones de escritura (comandos) de las operaciones de lectura (consultas) para optimizar el rendimiento y la escalabilidad.| | | | |X|X|
-|Microservices|Arquitectura de Microservicios |Comprender el concepto de arquitectura de microservicios, que consiste en construir una aplicación como un conjunto de servicios independientes y altamente cohesivos. Saber cómo los microservicios se comunican a través de APIs y cómo se enfoca en la separación de preocupaciones y la escalabilidad.| | | |X|X|X|
-| |Descomposición y Responsabilidades Claras |Reconocer la importancia de dividir la aplicación en microservicios pequeños y autónomos, cada uno con una responsabilidad específica. Comprender cómo esta descomposición facilita el desarrollo, la implementación y la gestión de cada microservicio por separado.| | | | |X|X|
-| |Escalabilidad y Tolerancia a Fallos |Saber cómo los microservicios pueden escalarse independientemente según la demanda, lo que mejora la eficiencia y la capacidad de respuesta. Comprender cómo los microservicios deben ser diseñados para ser resistentes a fallos y cómo se pueden implementar estrategias de tolerancia a fallos.| | | |X|X|X|
-| |Gestión de Datos y Comunicación |Reconocer cómo los microservicios gestionan sus propios datos y bases de datos, lo que favorece la autonomía. Saber cómo se maneja la comunicación entre microservicios, incluyendo patrones como HTTP/REST, mensajería asincrónica y eventos.| | | | |X|X|
-|Spring ecosystem|Spring Boot|Spring Boot es un módulo que simplifica la configuración y creación de aplicaciones Spring. Proporciona características de configuración automática y una manera rápida de desarrollar aplicaciones Spring, reduciendo la necesidad de configuración manual. Spring Boot también ofrece incorporación de servidores integrados, gestión de dependencias y una gran cantidad de características listas para usar.| |X|X|X|X|X|
-| |Spring Security|Spring Security es un módulo que se utiliza para implementar la autenticación y la autorización en aplicaciones. Proporciona una capa de seguridad para proteger los recursos y las rutas de acceso en aplicaciones web y servicios. Spring Security maneja aspectos como el manejo de roles, autenticación con usuarios y contraseñas, autenticación con tokens, y más.| | | | |X|X|
-| |Spring Data|Spring Data es un módulo que facilita la interacción con diferentes fuentes de datos, como bases de datos relacionales, NoSQL y sistemas de almacenamiento en caché. Proporciona una abstracción para trabajar con datos y reduce la cantidad de código repetitivo necesario para realizar operaciones CRUD y consultas| | | |X|X|X|
-| |Spring Batch|Spring Batch es un módulo para el procesamiento por lotes de datos. Permite definir trabajos que involucran pasos de procesamiento, como leer, procesar y escribir datos. Es especialmente útil para tareas como migración de datos, generación de informes y procesamiento en lotes de datos en general.| | | | |X|X|
-| |Spring MVC and WebFlow|Spring MVC (Model-View-Controller) es un módulo para desarrollar aplicaciones web utilizando el patrón de diseño MVC. Proporciona un marco para gestionar solicitudes web, procesar formularios y entregar respuestas. Spring Webflow extiende Spring MVC y se centra en el flujo de navegación y la gestión de formularios en aplicaciones web más complejas.| |X|X|X|X|X|
-| |Spring Cloud|Spring Cloud es un conjunto de herramientas y bibliotecas que facilitan el desarrollo de aplicaciones en la nube y microservicios. Proporciona soluciones para problemas comunes en arquitecturas distribuidas, como la configuración centralizada, el descubrimiento de servicios, la tolerancia a fallos y la monitorización.| | | |X|X|X|
-| |Spring Integration|Spring Integration es un módulo que ayuda a integrar sistemas y aplicaciones mediante el uso de patrones de integración empresarial. Proporciona componentes para manejar mensajes y flujos de datos en escenarios de integración, como la mensajería asíncrona, la transformación de datos y el enrutamiento.| | | | |X|X|
-|Cryptography|Cifrado y Descifrado |Comprender cómo funciona el cifrado y el descifrado, que son procesos para codificar y decodificar información para protegerla. Reconocer la diferencia entre cifrado simétrico y asimétrico: en el primero se utiliza la misma clave para cifrar y descifrar, mientras que en el segundo se utilizan claves públicas y privadas.| | | | |X|X|
-| |Algoritmos Criptográficos |Familiarizarse con los algoritmos criptográficos, como AES (Advanced Encryption Standard), RSA (Rivest-Shamir-Adleman) y SHA (Secure Hash Algorithm). Saber cuándo y cómo elegir el algoritmo correcto según el nivel de seguridad requerido y el propósito de la aplicación.| | | | |X|X|
-| |Gestión de Claves |Comprender la importancia de una gestión adecuada de claves en la criptografía. Reconocer cómo se generan, almacenan, distribuyen y revocan claves de cifrado, y cómo se pueden proteger contra el acceso no autorizado.| | | |X|X|X|
-| |Autenticación e Integridad |Conocer cómo la criptografía se utiliza para garantizar la autenticidad y la integridad de los datos. Saber cómo funcionan las firmas digitales, los sellos de tiempo y los códigos de autenticación de mensajes (MAC) para verificar la procedencia y la integridad de la información.| | | | |X|X|
-|Security|Autenticación y Autorización|Autenticación: Es el proceso de verificar la identidad de un usuario o entidad. Los desarrolladores deben saber cómo implementar autenticación segura, como mediante contraseñas seguras, autenticación de dos factores y tokens de acceso. Autorización: Es el proceso de otorgar permisos adecuados a usuarios o entidades autenticadas. Los desarrolladores deben entender cómo establecer políticas de autorización y controlar el acceso a recursos y funciones basados en roles y permisos. Flujos OAuth, SAML, OpenID Connect| | |X|X|X|X|
-| |Protección contra Amenazas Web|Inyección de SQL: Comprender cómo prevenir ataques de inyección de SQL utilizando consultas parametrizadas y validación de entrada. Cross-Site Scripting (XSS): Conocer las técnicas para evitar vulnerabilidades XSS mediante la limpieza y el escape adecuados de los datos enviados y recibidos. Cross-Site Request Forgery (CSRF): Saber cómo implementar medidas de protección contra ataques CSRF, como el uso de tokens anti-CSRF y verificación de origen en las solicitudes.| | | |X|X|X|
-| |Manejo de Sesiones y Tokens|Cookies y Sesiones: Comprender cómo se gestionan las cookies y las sesiones en una aplicación web para asegurarse de que los datos sensibles se manejen de manera segura. Tokens de Acceso y Autenticación: Saber cómo se generan, manejan y validan los tokens de acceso (como JWT) para autenticar y autorizar a los usuarios en aplicaciones y servicios.| | | |X|X|X|
-| |Uso de herramientas y protocolos|WAF, Firewalls, SAML, Github Advance Security, OWASP| | | | |X|X|
-| |Certificados| Un certificado digital es un documento electrónico que se utiliza para confirmar la identidad de una entidad, como un individuo, una organización o un sitio web. En Java, estos certificados se manejan a través del marco de trabajo de Seguridad (Java Security Framework) y se utilizan para establecer confianza y autenticar a las partes en comunicaciones seguras, como conexiones HTTPS y autenticación de clientes.| | | | |X|X|
-|AWS|Amazon EC2 (Elastic Compute Cloud)|Ofrece capacidad informática escalable en la nube, permitiendo a los usuarios ejecutar y administrar máquinas virtuales (instancias) en la infraestructura de AWS.| | |X|X|X|X|
-| |Amazon S3 (Simple Storage Service)|Es un servicio de almacenamiento de objetos altamente escalable y duradero que permite a los usuarios almacenar y recuperar datos en la nube.| | |X|X|X|X|
-| |Amazon Lambda|Es un servicio de cómputo sin servidor que permite ejecutar código en respuesta a eventos sin tener que gestionar servidores. Es fundamental para implementaciones de arquitectura basadas en eventos.| | |X|X|X|X|
-| |Amazon SNS (Simple Notification Service)|Ofrece la capacidad de enviar notificaciones, alertas o mensajes a través de múltiples canales, como correo electrónico, mensajes de texto y más.| | | | |X|X|
-| |Amazon SQS (Simple Queue Service)|Proporciona una cola de mensajes completamente gestionada que permite a los componentes de una aplicación comunicarse entre sí de manera asincrónica.    | | | | |X|X|
-| |Bases de datos AWS (aurora y dynamoDB)|Las bases de datos de AWS proporciona una infraestructura escalable y gestionada por Amazon para alojar bases de datos relacionales y NoSQL, lo que permite a las organizaciones centrarse en el desarrollo de aplicaciones en lugar de preocuparse por la gestión de la infraestructura de base de datos| | |X|X|X|X|
-| |Networking en AWS (VPCs..)|Configuración y administración de la infraestructura de redes en AWS la plataforma de servicios en la nube de Amazon.| | | | |X|X|
-| |Otros productos como IAM, AWS.  Fargate, eventbridge, ..|Fargate es un servicio de administración de contenedores en AWS que simplifica la ejecución de aplicaciones en contenedores sin necesidad de gestionar la infraestructura subyacente.   Amazon EventBridge es un servicio de administración de eventos en la nube proporcionado por AWS. Su función principal es permitir la creación, el enrutamiento y la entrega de eventos entre diferentes aplicaciones y servicios en AWS, lo que facilita la creación de arquitecturas orientadas a eventos y la automatización de procesos en la nube.| | | | |X|X|
-|IaaC|CDK, Terraform|Infraestructure as a code| | | | |X|X|
-|Leadership Skills|Technical Skills|Ability to provide technical direction, set goals, and motivate team members.  Willingness to mentor and guide team members in technical matters.| | | | | |X|
-| |Lead discussions resolve conflicts|Capacity to lead technical discussions, resolve conflicts, and make informed decisions.| | | | | |X|
-| |Project management|Experience in project planning, estimation, and resource allocation. Ability to manage and prioritize tasks and deliverables | | | | | |X|
-| |Feedback|Capability to assess team members' skills and provide constructive feedback.| | | | | |X|
-|Problem-Solving and decision-Making|Decision maker|Capacity to make informed decisions on technical strategies and solutions.| | | | | |X|
-| |Priority management|Balancing short-term needs with long-term goals and technical debt management.| | | | | |X|
-| |Strategic thinking|Capacity to think in long term solutions| | | | | |X|
-|Stakeholders communications|Technical communications|Strong communication skills to articulate technical concepts to both technical and non-technical stakeholders.| | | | | |X|
-| |Business Comunications|Strong communication skills to articulate problems with business stakeholders| | | | | |X|
+# Backend Java
+
+The final career path ([engineer](./engineer-competency-matrix.md) included).
+
+## Levels
+Junior = 1  
+Junior Advance = 2  
+Semi-Senior = 3  
+Semi-Senior Advance = 4  
+Senior = 5   
+Team Leader = 6
+
+| Junior (level 1)                    |                                                              |
+| ----------------------------------- | ------------------------------------------------------------ |
+| Softskill                           | Aptitud                                                      |
+| Softskill                           | Actitud                                                      |
+| Softskill                           | Reporte                                                      |
+| Softskill                           | Creativo                                                     |
+| Softskill                           | Teamwork                                                     |
+| Workstation                         | Environment variables                                        |
+| SQL                                 | Sintaxis                                                     |
+| OOP & Programming                   | Comprensión de Conceptos Fundamentales de POO                |
+| OOP & Programming                   | Clean Code                                                   |
+| OOP & Programming                   | SOLID                                                        |
+| Design Patterns                     | Conocimiento de Patrones de Diseño Comunes                   |
+| Design Patterns                     | Conocer las Ventajas y Desventajas de los Patrones           |
+| Java                                | Fundamentos del Lenguaje y Sintaxis                          |
+| Java                                | Gestión de Datos y estructuras                               |
+| Java                                | Entrada/Salida y Manejo de Excepciones                       |
+| Web                                 | HTML y CSS                                                   |
+| Git                                 | Repositorios y Commits                                       |
+| Git                                 | Conventional commit                                          |
+| Git                                 | Flujo de Trabajo y Colaboración<br>Gitflow - github flow     |
+| Scrum                               | Roles de Scrum                                               |
+| Scrum                               | Artefactos de Scrum                                          |
+| Scrum                               | Eventos de Scrum                                             |
+| REST Services                       | Métodos HTTP                                                 |
+| REST Services                       | Representación de Recursos                                   |
+| Logging                             | API de Logging                                               |
+| Logging                             | Niveles de Registro                                          |
+| Building/Packaging                  | Build Tools (Herramientas de Construcción)                   |
+| Test                                | Unit test                                                    |
+| Test                                | Mock                                                         |
+| Persistence Frameworks              | JDBC                                                         |
+|                                     |                                                              |
+| Jr Advance (level 2)                |                                                              |
+| Softskill                           | Goal oriented                                                |
+| Softskill                           | Problem solving                                              |
+| Softskill                           | Analitico                                                    |
+| Softskill                           | Escritura de documentacion                                   |
+| OOP & Programming                   | Habilidad en el Uso de Encapsulación y Abstracción           |
+| Design Patterns                     | Habilidad para Adaptar Patrones a Situaciones                |
+| Git                                 | Ramificación y Fusión                                        |
+| Git                                 | Conflictos y Resolución                                      |
+| Scrum                               | Reglas de Scrum                                              |
+| Spring                              | Inyección de Dependencias (Dependency Injection - DI)        |
+| Spring                              | Contenedor de Spring                                         |
+| Transactions                        | Propiedades ACID de las Transacciones                        |
+| Transactions                        | Gestión de Transacciones en Java:                            |
+| REST Services                       | Recursos y URI                                               |
+| REST Services                       | Estado y Transferencia                                       |
+| NoSQL                               | Modelos de Datos NoSQL                                       |
+| NoSQL                               | Consultas y Acceso a Datos                                   |
+| Building/Packaging                  | Proyecto y Configuración del Build                           |
+| Building/Packaging                  | Ciclo de Vida del Build                                      |
+| Building/Packaging                  | Empaquetado y Distribución                                   |
+| Test                                | End to end                                                   |
+| Test                                | TDD                                                          |
+| CI/CD                               | Integración Continua (CI)                                    |
+| Persistence Frameworks              | JPA (Java Persistence API)                                   |
+| Documentacion                       | OpenAPI                                                      |
+| Spring ecosystem                    | Spring Boot                                                  |
+| Spring ecosystem                    | Spring MVC and WebFlow                                       |
+|                                     |                                                              |
+| Semi-Senior (level 3)               |                                                              |
+| Softskill                           | Comunicacion                                                 |
+| Softskill                           | Pressure tolerance                                           |
+| Softskill                           | Flexibility and Sense of Urgency                             |
+| SQL                                 | Optimización de Consultas                                    |
+| SQL                                 | Modelado de Bases de Datos                                   |
+| OOP & Programming                   | Habilidad en el Diseño de Clases y Relaciones                |
+| OOP & Programming                   | Diseño Centrado en Objetos y Responsabilidades Claras        |
+| Design Patterns                     | Comprender los Contextos de Uso                              |
+| Java                                | Concurrencia y Programación Multihilo                        |
+| Web                                 | JavaScript y Frameworks Frontend (superficial)               |
+| Web                                 | Diseño Responsivo y Experiencia del Usuario                  |
+| Algorithms & Structures.            | Complejidad y Optimización:                                  |
+| Spring                              | Aspect-Oriented Programming (AOP)                            |
+| Spring                              | Módulos Principales de Spring:                               |
+| Transactions                        | Manejo de Excepciones y Rollback                             |
+| NoSQL                               | Escalabilidad y Rendimiento                                  |
+| Logging                             | Utilización de herramientas observabilidad                   |
+| Logging                             | Patrones de Mensajes y Contexto                              |
+| CI/CD                               | Herramientas de calidad de código                            |
+| CI/CD                               | Entrega Continua (CD)                                        |
+| CI/CD                               | Automatización de Pruebas y Tareas                           |
+| Persistence Frameworks              | ORM (Mapeo Objeto-Relacional)                                |
+| Persistence Frameworks              | Hibernate                                                    |
+| Persistence Frameworks              | Consultas JPQL (Java Persistence Query Language)             |
+| Arquitectura                        | Arquitectura Hexagonal (Arquitectura Ports and Adapters)     |
+| Arquitectura                        | Twelve-Factor App                                            |
+| Security                            | Autenticación y Autorización                                 |
+| Security                            | OAuth                                                        |
+| AWS                                 | Amazon EC2 (Elastic Compute Cloud)                           |
+| AWS                                 | Amazon S3 (Simple Storage Service)                           |
+| AWS                                 | Amazon Lambda                                                |
+| AWS                                 | Bases de datos AWS (aurora y dynamoDB)                       |
+|                                     |                                                              |
+| Semi-Senior-Advance (level 4)       |                                                              |
+| Softskill                           | Autonomy                                                     |
+| Softskill                           | Negotiation                                                  |
+| Algorithms & Structures.            | Estructuras de Datos Fundamentales                           |
+| Transactions                        | Niveles de Aislamiento de Transacciones                      |
+| NoSQL                               | Consistencia y Transacciones                                 |
+| CI/CD                               | Ciclo de vida detallado                                      |
+| CI/CD                               | Workflows and pipelines                                      |
+| Arquitectura                        | Event-Driven Architecture (Arquitectura Orientada a Eventos) |
+| Arquitectura                        | Event Sourcing (Almacenamiento de Eventos)                   |
+| Microservices                       | Arquitectura de Microservicios                               |
+| Microservices                       | Escalabilidad y Tolerancia a Fallos                          |
+| Spring ecosystem                    | Spring Data                                                  |
+| Spring ecosystem                    | Spring Cloud                                                 |
+| Cryptography                        | Gestión de Claves                                            |
+| Security                            | Protección contra Amenazas Web                               |
+| Security                            | Manejo de Sesiones y Tokens                                  |
+|                                     |                                                              |
+| Senior (level 5)                    |                                                              |
+| Softskill                           | Responsabilidad                                              |
+| Softskill                           | Conflict resolution                                          |
+| Softskill                           | Coaching                                                     |
+| Scrum                               | Conocimiento crítico de scrum                                |
+| REST Services                       | Arquitectura HTTP                                            |
+| Arquitectura                        | Uso de arquitecturas                                         |
+| Arquitectura                        | Programación Reactiva                                        |
+| Arquitectura                        | CQRS (Command Query Responsibility Segregation)              |
+| Microservices                       | Descomposición y Responsabilidades Claras                    |
+| Microservices                       | Gestión de Datos y Comunicación                              |
+| Spring ecosystem                    | Spring Security                                              |
+| Spring ecosystem                    | Spring Batch                                                 |
+| Spring ecosystem                    | Spring Integration                                           |
+| Cryptography                        | Cifrado y Descifrado                                         |
+| Cryptography                        | Algoritmos Criptográficos                                    |
+| Cryptography                        | Autenticación e Integridad                                   |
+| Security                            | Uso de herramientas y protocolos                             |
+| Security                            | Certificados                                                 |
+| AWS                                 | Amazon SNS (Simple Notification Service)                     |
+| AWS                                 | Amazon SQS (Simple Queue Service)                            |
+| AWS                                 | Networking en AWS (VPCs..)                                   |
+| AWS                                 | Otros productos como IAM, AWS.<br>Fargate, eventbridge, ..   |
+| IaaC                                | CDK, Terraform                                               |
+|                                     |                                                              |
+| TL (level 6)                        |                                                              |
+| Softskill                           | Leader                                                       |
+| Leadership Skills                   | Technical Skills                                             |
+| Leadership Skills                   | Lead discussions resolve conflicts                           |
+| Leadership Skills                   | Project management                                           |
+| Leadership Skills                   | Feedback                                                     |
+| Problem-Solving and decision-Making | Decision maker                                               |
+| Problem-Solving and decision-Making | Priority management                                          |
+| Problem-Solving and decision-Making | Strategic thinking                                           |
+| Stakeholders communications         | Technical communications                                     |
+| Stakeholders communications         | Business Comunications                                       |
