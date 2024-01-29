@@ -1,14 +1,6 @@
-# Frontend web
+# Frontend
 
 The final career path ([engineer](./engineer-competency-matrix.md) included).
-
-## Levels
-Junior = 1  
-Junior Advance = 2  
-Semi-Senior = 3  
-Semi-Senior Advance = 4  
-Senior = 5   
-Team Leader = 6  
 
 | Junior (level 1)                    |                                                          |
 | ----------------------------------- | -------------------------------------------------------- |

@@ -2,16 +2,7 @@
 
 This is the common fundamental of engineering career path.
 
-Included on: [Backend Java](./backend-competency-matrix.md) and [Frontend Web](./frontend-compentecy-matrix.md)
-
-## Levels
-Junior = 1  
-Junior Advance = 2  
-Semi-Senior = 3  
-Semi-Senior Advance = 4  
-Senior = 5   
-Team Leader = 6
-
+Included on: [Backend](./backend.md) and [Frontend](./frontend.md)
 
 | Engineer career path         |                                                          | Backend<br>Level | Frontend<br>Level |
 | ----------------------------------- | -------------------------------------------------------- | ---------------- | ----------------- |
