@@ -23,7 +23,9 @@ Complementing the role and job description, the [technology stack](./technology_
 
 ## Career paths
 
-Explore well-defined career paths for each role, categorized into different levels
+Explore well-defined career paths for each role, categorized into different levels.
+
+You have a broad definition for the carrer paths in [Software engineering](swe_competency_matrix.md), and the specialization of each path.,
 
 ### Paths
 
