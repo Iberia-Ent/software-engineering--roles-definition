@@ -9,7 +9,7 @@ Explore specific roles:
 
 - [Cloud Engineer](./job_descriptions/cloud_engineer.md)
 - [Developer Relations Manager](./job_descriptions/devrel.md)
-- [Principal Solutions Architect](./job_descriptions/principal_cloud_architect.md)
+- [Principal Cloud Architect](./job_descriptions/principal_cloud_architect.md)
 - [Principal Solutions Architect](./job_descriptions/principal_solutions_architect.md)
 - [QA Engineer](./job_descriptions/qa_engineer.md)
 - [QA Manager](./job_descriptions/qa_manager.md)
