@@ -13,6 +13,8 @@ The order is determined by category/title.
 
 The '.mp4' files belong to the provider's repository.
 
+"IWA" means: Iberia Web Academy.
+
 There are texts in Spanish since the content is in this language.
 
 | | | | | |
