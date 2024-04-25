@@ -2,7 +2,7 @@
 
 The final career path ([engineer](./engineer-competency-matrix.md) included).
 
-We have [material](./engineer_material.md) associated with each capability to work on each of them (taking into account the branches).
+We have [material](./engineer_material.md) associated with each skill to work on each of them (taking into account the branches).
 
 
 | Skill                   | Junior                                                                                                   | Junior Advance                                                               | Semi-senior                                                                                                               | Semi-senior advanced                                        | Senior                                                                                                                                                               |
