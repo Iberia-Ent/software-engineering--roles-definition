@@ -4,7 +4,7 @@ This is the common fundamental of engineering career path.
 
 Included on: [Backend](./backend.md) and [Frontend](./frontend.md)
 
-We have [material](./engineer_material.md) associated with each capability to work on each of them (taking into account the branches).
+We have [material](./engineer_material.md) associated with each skill to work on each of them (taking into account the branches).
 
 
 | Skill             | Junior                                                                                          | Junior Advance                                          | Semi-senior                                                                              | Semi-senior advanced                        | Senior                                        |
