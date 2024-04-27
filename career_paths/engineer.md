@@ -4,6 +4,9 @@ This is the common fundamental of engineering career path.
 
 Included on: [Backend](./backend.md) and [Frontend](./frontend.md)
 
+We have [material](./engineer_material.md) associated with each skill to work on each of them (taking into account the branches).
+
+
 | Skill             | Junior                                                                                          | Junior Advance                                          | Semi-senior                                                                              | Semi-senior advanced                        | Senior                                        |
 | ----------------- | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------- | ---------------------------------------------------------------------------------------- | ------------------------------------------- | --------------------------------------------- |
 | Softskill         | Aptitude, Attitude, Reporting, Creative, Team player                                            | Goal oriented, Problem solving, Analytical, Documentary | Comunication, Pressure tolerance, Flexibility and Sense of Urgency                       | Autonomy, Negotiation                       | Responsibility, Conflict resolution, Coaching |
