@@ -3,8 +3,8 @@ This is a common career path between backend and frontend.
 There are differences in expectation according to the level, whether it is backend or frontend. Each has its own independent column, so please take this into account.
 
 Continuing with specialization:
-- [Backend](./backend_material.md)
-- [Frontend](./frontend_material.md)
+- [Backend](../training_paths/backend_material.md)
+- [Frontend](../training_paths/frontend_material.md)
 
 
 **Notes:**

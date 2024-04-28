@@ -41,7 +41,6 @@ graph TD
     QA
 ```
 
-- [Shared Engineering career path](./career_paths/shared_engineer.md)
 - [Backend career path](./career_paths/backend.md)
 - [Frontend career path](./career_paths/frontend.md)
 - [QA career path](./career_paths/qa.md)
@@ -59,6 +58,15 @@ Team Leader (6)
 
 We currently offer a dedicated product to track the career progression of select engineers and provide tailored trainings. Although the goal is to extend this offering to all engineers in the future, at present, access is limited to participants in the academy program.
 
+Training paths are available for the following roles:
+
+- [Software Engineer](./training_paths/engineer_material.md)
+    - [Backend Developer](./training_paths/backend_material.md)
+    - [Frontend Developer](./training_paths/frontend_material.md)
+        - [Frontend Angular Developer](./training_paths/frontend_angular_material.md)
+        - [Frontend React Developer](./training_paths/frontend_react_material.md)
+    - [QA Engineer](./training_paths/qa_engineer.md)
+
 If you are eager to enhance your skills and are uncertain about the next steps, please contact your technical lead or [reach out to us](#contact).
 
 ### Questions
@@ -70,5 +78,3 @@ Currently these skills are accompanied by coaches and mentors in the academy pro
 Feel free to open any issue or contribution following our [Innersource standards](https://github.com/Iberia-Ent/software-engineering--innersource--standards).
 
 *Software Engineering - Patterns & Practices*
-
-[Nacho García](https://github.com/nachogarcia) - nacho.garcia@iaggbs.com

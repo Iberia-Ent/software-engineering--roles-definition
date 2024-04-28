@@ -2,8 +2,8 @@ This is the continuation of the [engineering career path](./engineer_material.md
 
 Here the path diverges into two options after this foundation, one in React and another in Angular. Continue with the one that corresponds.
 
-- [React](./frontend_react_material.md)
-- [Angular](./frontend_angular_material.md)
+- [React](../training_paths/frontend_react_material.md)
+- [Angular](../training_paths/frontend_angular_material.md)
 
 | | | | |
 |-|-|-|-|
