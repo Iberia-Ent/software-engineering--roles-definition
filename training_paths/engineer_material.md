@@ -38,6 +38,7 @@ There are texts in Spanish since the content is in this language.
 |REST Services|HTTP Methods|1|1|https://university.globant.com/group/6197?source=/search/trainings%3Fkeys%3Drest%2Bservices|
 |Test|Unit test|1|1| |
 |Test|Mock|1|1| |
+|AWS fundamentals|Introduction to Cloud Computing on AWS for Beginners 2024|1|1|https://globant.udemy.com/course/introduction-to-cloud-computing-on-amazon-aws-for-beginners/learn/lecture/42522032#overview|
 |OOP & Programming|Skill in Utilizing Encapsulation and Abstraction|2|3|https://university.globant.com/group/7055 (para front modulo 2)|
 |Design Patterns|Ability to Adapt Patterns to Situations|2|3|https://university.globant.com/group/5457?source=/search/trainings%3Fkeys%3Ddesign%2Bpatterns|
 |Git|Branching and Merging|2|2|https://university.globant.com/group/5473?source=/search/trainings%3Fkeys%3Dgit|
