@@ -8,19 +8,20 @@ To facilitate the recruitment process and align expectations, we have provided a
 Explore specific roles:
 
 - [Cloud Engineer](./job_descriptions/cloud_engineer.md)
-- [Developer Relations Manager](./job_descriptions/devrel.md)
 - [Principal Cloud Architect](./job_descriptions/principal_cloud_architect.md)
-- [Principal Solutions Architect](./job_descriptions/principal_solutions_architect.md)
 - [QA Engineer](./job_descriptions/qa_engineer.md)
 - [QA Lead](./job_descriptions/qa_lead.md)
 - [QA Manager](./job_descriptions/qa_manager.md)
-- [Scrum Master](./job_descriptions/scrum_master.md)
 - [Software Engineer](./job_descriptions/software_engineer.md)
+- [Tech Lead (TL)](./job_descriptions/tech_lead.md)
+- [Developer Relations Manager](./job_descriptions/devrel.md)
+- [Principal Engineer](./job_descriptions/principal_engineer.md)
 - [Engineering Manager](./job_descriptions/engineer_manager.md)
 - [Solutions Architect (SA)](./job_descriptions/solution_architect.md)
+- [Principal Solutions Architect](./job_descriptions/principal_solutions_architect.md)
 - [Stack (UX/UI, QA...) Lead ](./job_descriptions/stack_lead.md)
 - [Subject Matter Expert (SME)](./job_descriptions/subject_matter_expert.md)
-- [Tech Lead (TL)](./job_descriptions/tech_lead.md)
+- [Scrum Master](./job_descriptions/scrum_master.md)
 
 ### Technology stack
 
