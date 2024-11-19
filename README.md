@@ -12,6 +12,7 @@ Explore specific roles:
 - [QA Engineer](./job_descriptions/qa_engineer.md)
 - [Scrum Master](./job_descriptions/scrum_master.md)
 - [Software Engineer](./job_descriptions/software_engineer.md)
+- [Engineering Manager](./job_descriptions/engineer_manager.md)
 - [Solutions Architect (SA)](./job_descriptions/solution_architect.md)
 - [Stack (UX/UI, QA...) Lead ](./job_descriptions/stack_lead.md)
 - [Subject Matter Expert (SME)](./job_descriptions/subject_matter_expert.md)
