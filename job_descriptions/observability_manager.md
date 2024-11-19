@@ -24,9 +24,19 @@ The Observability Manager is a key leadership role responsible for developing an
 - **Communication:** Excellent communication skills, with the ability to translate technical insights into business outcomes and collaborate effectively across departments.
 - **Problem-solving Ability:** Strong analytical skills and a proactive approach to identifying and solving performance issues.
 
+Preferred Qualifications:
+ 
+- Dynatrace Certification and experience with AIOps, automated incident response, or machine learning-driven performance monitoring.
+- Familiarity with ITIL frameworks and incident/problem management processes.
+- Experience aligning observability metrics with business KPIs and data-driven decision-making.
+
 ## How you will work
 
-Iberia works in product-oriented teams, with full ownership and autonomy inside their boundaries. As a Platform Architect, you will work with a diverse team and handle requirements and technical documentation in English and Spanish.
+- You will lead an observability team, ensuring alignment between their day-to-day tasks and the strategic vision for observability. You'll mentor and guide them to drive continuous improvement.
+- Collaboration: You’ll collaborate extensively across teams—working with IT, DevOps, and business stakeholders—to ensure observability efforts contribute to both technical efficiency and business success.
+- Vision and Strategy: You will work at a high level, creating the vision for observability, ensuring it aligns with business needs, and overseeing the execution of this strategy with your team.
+- Communication: You’ll act as a bridge between technical teams and business leadership, ensuring observability data and insights drive informed decision-making and performance optimization.
+- Continuous Improvement: You will foster an environment of continuous learning and improvement, staying ahead of industry trends, and incorporating best practices into the company’s observability framework.
 
 **There is a defined career path in the company so every Observability Manager can grow**
 
