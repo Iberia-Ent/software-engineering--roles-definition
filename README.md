@@ -20,7 +20,7 @@ Explore specific roles:
 - [Principal Engineer](./job_descriptions/principal_engineer.md)
 - [Solutions Architect (SA)](./job_descriptions/solution_architect.md)
 - [Principal Solutions Architect](./job_descriptions/principal_solutions_architect.md)
-- [Stack (UX/UI, QA...) Lead ](./job_descriptions/stack_lead.md)
+- [Platform Architect](./job_descriptions/platform_architect.md)
 - [Subject Matter Expert (SME)](./job_descriptions/subject_matter_expert.md)
 - [Scrum Master](./job_descriptions/scrum_master.md)
 
