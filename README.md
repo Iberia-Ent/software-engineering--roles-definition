@@ -18,6 +18,7 @@ Explore specific roles:
 - [Tech Lead (TL)](./job_descriptions/tech_lead.md)
 - [Developer Relations Manager](./job_descriptions/devrel.md)
 - [Principal Engineer](./job_descriptions/principal_engineer.md)
+- [Observability Manager](./job_descriptions/observability_manager.md)
 - [Solutions Architect (SA)](./job_descriptions/solution_architect.md)
 - [Principal Solutions Architect](./job_descriptions/principal_solutions_architect.md)
 - [Platform Architect](./job_descriptions/platform_architect.md)
