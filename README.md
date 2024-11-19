@@ -8,6 +8,7 @@ To facilitate the recruitment process and align expectations, we have provided a
 Explore specific roles:
 
 - [Cloud Engineer](./job_descriptions/cloud_engineer.md)
+- [Cloud Architect](./job_descriptions/cloud_architect.md)
 - [Principal Cloud Architect](./job_descriptions/principal_cloud_architect.md)
 - [QA Engineer](./job_descriptions/qa_engineer.md)
 - [QA Lead](./job_descriptions/qa_lead.md)
