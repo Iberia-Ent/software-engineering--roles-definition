@@ -100,8 +100,8 @@ To be eligible for advancement from Semi-senior to Semi-senior Advanced, a candi
    *If any one of these Core skills is below Advanced (5 points), the candidate cannot advance, even if the overall score meets the threshold.*
 
 2. **Total Points Requirement:**  
-   The candidate’s overall score—calculated by summing the points from all evaluated skills—must be **at least 101 points**.
-   - *For example, if a candidate’s total score is 100 points, they do not meet the threshold to advance.*
+   The candidate’s overall score—calculated by summing the points from all evaluated skills—must be **at least 101 points**.  
+   *For example, if a candidate’s total score is 100 points, they do not meet the threshold to advance.*
 
 A candidate can only advance from Semi-senior to Semi-senior Advanced if both conditions are met.
 

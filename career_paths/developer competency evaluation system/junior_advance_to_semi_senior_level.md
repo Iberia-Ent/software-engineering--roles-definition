@@ -25,7 +25,7 @@ To advance from **Junior Advance** to **Semi-senior**, candidates must:
 
 - **Java:**  
   - **Required Level:** Intermediate (3 points)  
-  *Able to effectively use essential libraries and frameworks, with sound command of the language.*
+  *Able to effectively use essential libraries and frameworks, with a sound command of the language.*
 
 - **REST Services:**  
   - **Required Level:** Intermediate (3 points)  
@@ -77,8 +77,8 @@ To advance from **Junior Advance** to **Semi-senior**, candidates must:
   *Familiarity with agile methodologies and Scrum practices.*
 
 - **Logging:**  
-  - **Required Level:** Basic (1 point)  
-  *Understands the fundamentals of logging for debugging and monitoring.*
+  - **Required Level:** Intermediate (3 points)  
+  *Demonstrates effective use of logging frameworks, configuration of log levels, and analysis of logs for debugging and monitoring.*
 
 - **Building/Packaging:**  
   - **Required Level:** Basic (1 point)  
@@ -111,14 +111,14 @@ To advance from **Junior Advance** to **Semi-senior**, candidates must:
 | **Design Patterns** (Core)                 | Intermediate (3)               | Intermediate (3)                        | 3                       |
 | **Git** (Core)                             | Intermediate (3)               | Intermediate (3)                        | 3                       |
 | **Test** (Core)                            | Intermediate (3)               | Intermediate (3)                        | 3                       |
-| **Soft Skills**                            | Intermediate (3)               | Intermediate (3)                        | 3                       |
-| **Workstation**                            | Basic (1)                      | Basic (1)                               | 1                       |
-| **Web**                                    | Basic (1)                      | Basic (1)                               | 1                       |
-| **Scrum**                                  | Basic (1)                      | Basic (1)                               | 1                       |
-| **Logging**                                | Basic (1)                      | Basic (1)                               | 1                       |
-| **Building/Packaging**                     | Basic (1)                      | Basic (1)                               | 1                       |
-| **Documentation**                          | Basic (1)                      | Basic (1)                               | 1                       |
-| **Spring Ecosystem**                       | Intermediate (3)               | Intermediate (3)                        | 3                       |
+| **Soft Skills** (Secondary)                | Intermediate (3)               | Intermediate (3)                        | 3                       |
+| **Workstation** (Secondary)                | Basic (1)                      | Basic (1)                               | 1                       |
+| **Web** (Secondary)                        | Basic (1)                      | Basic (1)                               | 1                       |
+| **Scrum** (Secondary)                      | Basic (1)                      | Basic (1)                               | 1                       |
+| **Logging** (Secondary)                    | Intermediate (3)               | Intermediate (3)                        | 3                       |
+| **Building/Packaging** (Secondary)         | Basic (1)                      | Basic (1)                               | 1                       |
+| **Documentation** (Secondary)              | Basic (1)                      | Basic (1)                               | 1                       |
+| **Spring Ecosystem** (Secondary)           | Intermediate (3)               | Intermediate (3)                        | 3                       |
 
 ---
 
@@ -128,9 +128,9 @@ To advance from **Junior Advance** to **Semi-senior**, candidates must:
   SQL (3) + OOP & Programming (3) + Java (3) + REST Services (3) + Persistence Frameworks (3) + Spring (3) + Transactions (3) + CI/CD (3) + Design Patterns (3) + Git (3) + Test (3) = **33 points**
 
 - **Secondary Skills Total:**  
-  Soft Skills (3) + Workstation (1) + Web (1) + Scrum (1) + Logging (1) + Building/Packaging (1) + Documentation (1) + Spring Ecosystem (3) = **12 points**
+  Soft Skills (3) + Workstation (1) + Web (1) + Scrum (1) + Logging (3) + Building/Packaging (1) + Documentation (1) + Spring Ecosystem (3) = **14 points**
 
-- **Overall Total Minimum Required:** 33 + 12 = **45 points**
+- **Overall Total Minimum Required:** 33 + 14 = **47 points**
 
 ---
 
@@ -155,8 +155,8 @@ To be eligible for advancement from **Junior Advance** to **Semi-senior**, a can
    *If any one of these Core skills is below the required minimum, the candidate cannot advance—even if the overall score meets the threshold.*
 
 2. **Total Points Requirement:**  
-   The candidate’s overall score—calculated by summing the points from all evaluated skills—must be **at least 45 points**.
-   - *For example, if a candidate’s total score is 44 points, they do not meet the threshold to advance.*
+   The candidate’s overall score—calculated by summing the points from all evaluated skills—must be **at least 47 points**.  
+   *For example, if a candidate’s total score is 46 points, they do not meet the threshold to advance.*
 
 A candidate can only advance from Junior Advance to Semi-senior if both conditions are met.
 
