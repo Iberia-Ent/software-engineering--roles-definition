@@ -51,34 +51,41 @@ To advance from Junior to Junior Advance, the candidate must:
 
 - **Transactions:**  
   - **Current Level in Junior:** Basic  
-  - **Expected Level in Junior Advance:** Basic to Intermediate (1–3 points)  
-  *Exposure to transaction management without requiring complex scenarios.*
+  - **Expected Level in Junior Advance:**  
+    - **Basic:** Demonstrates an understanding of ACID principles and can handle simple transaction scenarios (1 point).  
+    - **Intermediate:** Can configure and manage isolation levels and handle rollback scenarios in more complex situations (up to 3 points).  
+  *This progression ensures a foundation is set without overburdening the candidate at this stage.*
 
 - **CI/CD:**  
   - **Current Level in Junior:** Basic  
-  - **Expected Level in Junior Advance:** Basic to Intermediate (1–3 points)  
-  *Fundamental knowledge in creating and maintaining deployment pipelines.*
+  - **Expected Level in Junior Advance:**  
+    - **Basic:** Knows how to create and maintain simple deployment pipelines (1 point).  
+    - **Intermediate:** Can automate tests and integrate additional deployment and validation stages (up to 3 points).  
+  *The focus is on introducing automation and pipeline complexity gradually.*
 
 - **Design Patterns:**  
   - **Current Level in Junior:** Basic  
-  - **Expected Level in Junior Advance:** Basic (1 point)  
-  *Recognition and application of simple design patterns.*
+  - **Expected Level in Junior Advance:** Basic/Intermediate (1–3 points)  
+  *Basic: Recognizes common design patterns and their pros and cons.  
+  Intermediate: Able to adapt and combine patterns to solve specific problems, indicating an evolving practical understanding.*
 
 - **Git:**  
   - **Current Level in Junior:** Basic  
   - **Expected Level in Junior Advance:** Intermediate (3 points)  
-  *Effective use of version control and branching in team projects.*
+  *Effective use of version control, including branching strategies, conflict resolution, and collaborative workflows.*
 
 - **Test:**  
   - **Current Level in Junior:** Basic  
-  - **Expected Level in Junior Advance:** Basic to Intermediate (1–3 points)  
-  *Introduction to unit testing, integration testing, and basic TDD concepts.*
+  - **Expected Level in Junior Advance:**  
+    - **Basic:** Ability to write simple unit tests (1 point).  
+    - **Intermediate:** Introduces integration tests and demonstrates basic TDD principles (up to 3 points).  
+  *This ensures candidates begin to apply testing strategies beyond mere unit tests.*
 
 ### Secondary Skills (Complementary)
 - **Soft Skills:**  
   - **Current Level in Junior:** Basic  
   - **Expected Level in Junior Advance:** Intermediate (3 points)  
-  *Communication, teamwork, and conflict resolution skills.*
+  *Enhanced communication, teamwork, and conflict resolution skills.*
 
 - **Workstation:**  
   - **Current Level in Junior:** Basic  
@@ -132,17 +139,17 @@ To advance from Junior to Junior Advance, the candidate must:
 | **Spring** (Core)                          | Basic                   | Intermediate                     | 3                        |
 | **Transactions** (Core)                    | Basic                   | Basic/Intermediate               | 1–3                      |
 | **CI/CD** (Core)                           | Basic                   | Basic/Intermediate               | 1–3                      |
-| **Design Patterns** (Core)                 | Basic                   | Basic                            | 1                        |
+| **Design Patterns** (Core)                 | Basic                   | Basic/Intermediate               | 1–3                      |
 | **Git** (Core)                             | Basic                   | Intermediate                     | 3                        |
 | **Test** (Core)                            | Basic                   | Basic/Intermediate               | 1–3                      |
-| **Soft Skills**                            | Basic                   | Intermediate                     | 3                        |
-| **Workstation**                            | Basic                   | Basic                            | 1                        |
-| **Web**                                    | Basic                   | Basic                            | 1                        |
-| **Scrum**                                  | Basic                   | Basic                            | 1                        |
-| **Logging**                                | Basic                   | Basic                            | 1                        |
-| **Building/Packaging**                     | Basic                   | Basic                            | 1                        |
-| **Documentation**                          | Basic                   | Basic                            | 1                        |
-| **Spring Ecosystem**                       | Basic                   | Intermediate                     | 3                        |
+| **Soft Skills** (Secondary)                | Basic                   | Intermediate                     | 3                        |
+| **Workstation** (Secondary)                | Basic                   | Basic                            | 1                        |
+| **Web** (Secondary)                        | Basic                   | Basic                            | 1                        |
+| **Scrum** (Secondary)                      | Basic                   | Basic                            | 1                        |
+| **Logging** (Secondary)                    | Basic                   | Basic                            | 1                        |
+| **Building/Packaging** (Secondary)         | Basic                   | Basic                            | 1                        |
+| **Documentation** (Secondary)              | Basic                   | Basic                            | 1                        |
+| **Spring Ecosystem** (Secondary)           | Basic                   | Intermediate                     | 3                        |
 
 ---
 
@@ -150,18 +157,16 @@ To advance from Junior to Junior Advance, the candidate must:
 
 - **Core Skills Total (Mandatory):**  
   Approximate sum:  
-  SQL (3) + OOP & Programming (3) + Java (3) + REST Services (3) + Persistence Frameworks (3) + Spring (3) + Transactions (min. 1–3) + CI/CD (min. 1–3) + Design Patterns (1) + Git (3) + Test (min. 1–3)  
-  **Approximate Total:** 27 to 33 points (depending on the evaluation in Transactions, CI/CD, and Test).
+  SQL (3) + OOP & Programming (3) + Java (3) + REST Services (3) + Persistence Frameworks (3) + Spring (3) + Transactions (1–3) + CI/CD (1–3) + Design Patterns (1–3) + Git (3) + Test (1–3)  
+  **Approximate Total:** 27 to 33 points (depending on evaluation in Transactions, CI/CD, Design Patterns, and Test).
 
 - **Secondary Skills Total:**  
   Soft Skills (3) + Workstation (1) + Web (1) + Scrum (1) + Logging (1) + Building/Packaging (1) + Documentation (1) + Spring Ecosystem (3)  
   **Total:** 12 points
 
 - **Overall Minimum Score:**  
-  **Approximately 39 to 45 points**
-
-> **Consideration:**  
-> To advance from Junior to Junior Advance, it is suggested that the candidate reach an overall minimum of **around 40 points**. This allows for consolidation of fundamentals without requiring the advanced mastery expected at the Semi-senior level or above.
+  **Approximately 39 to 45 points**  
+  *It is recommended that candidates reach an overall minimum of around 40 points to ensure a solid foundation for further progression.*
 
 ---
 

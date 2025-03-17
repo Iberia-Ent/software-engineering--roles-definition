@@ -1,6 +1,6 @@
 # Senior Level Summary – Backend Developer Competency Evaluation
 
-This document serves as a reference during external interviews to assess whether a candidate meets our Senior level requirements. It details the scoring model, required proficiencies, validation criteria, and a comprehensive table of skills with the expected levels.
+This document serves as a reference during external interviews to assess whether a candidate meets our Senior level requirements. It details the scoring model, required proficiencies, validation criteria, and provides a comprehensive table of skills with the expected levels.
 
 ---
 
@@ -29,28 +29,28 @@ At the Senior level, all **Core Skills** must be demonstrated at an **Expert** l
 - **Design Patterns**
 - **Git**
 - **Test**
-- **NoSQL**
 - **Architecture**
 - **Microservices**
 - **Security**
 - **AWS**
+- **Algorithms & Data Structures**
+- **Logging**
 
-*These 16 core skills reflect the deep technical mastery expected of a Senior Backend Developer.*
+*These 17 core skills reflect the deep technical mastery expected of a Senior Backend Developer. Notice that, compared to previous definitions, **NoSQL** has been removed from the core skills since it is not considered as essential at this level.*
 
 ### Secondary Skills (Minimum Levels)
 - **Soft Skills:** Expert (7 points)
-- **Workstation:** Basic (1 point)
 - **Web:** Basic (1 point)
-- **Algorithms & Data Structures:** Expert (7 points)
-- **Scrum:** Expert (7 points)
-- **Logging:** Intermediate (3 points)
+- **Scrum:** Intermediate (3 points)
 - **Building/Packaging:** Intermediate (3 points)
 - **Documentation:** Intermediate (3 points)
 - **Spring Ecosystem:** Expert (7 points)
 - **Cryptography:** Expert (7 points)
 - **IaaC:** Basic (1 point)
+- **Workstation:** Basic (1 point)
+- **NoSQL:** Intermediate (3 points)
 
-*These secondary skills complement the core technical areas with essential soft skills, system thinking, and operational capabilities.*
+*These secondary skills complement the core technical areas with essential soft skills, system thinking, and operational capabilities. In particular, while **Algorithms & Data Structures** and **Logging** are now core (and thus indispensable), skills like **NoSQL**, **Scrum**, and **Workstation** have been moved to the secondary category and set to lower thresholds.*
 
 ---
 
@@ -71,39 +71,39 @@ At the Senior level, all **Core Skills** must be demonstrated at an **Expert** l
 | **Design Patterns**        | Expert                  | 7                 |
 | **Git**                    | Expert                  | 7                 |
 | **Test**                   | Expert                  | 7                 |
-| **NoSQL**                  | Expert                  | 7                 |
 | **Architecture**           | Expert                  | 7                 |
 | **Microservices**          | Expert                  | 7                 |
 | **Security**               | Expert                  | 7                 |
 | **AWS**                    | Expert                  | 7                 |
+| **Algorithms & Data Structures** | Expert          | 7                 |
+| **Logging**                | Expert                  | 7                 |
 
-*Core Skills Total:* 16 skills × 7 points each = **112 points**
+*Core Skills Total:* 17 skills × 7 points each = **119 points**
 
 ### Secondary Skills
 
 | Skill                             | Expected Level (Senior) | Points (Expected) |
 |-----------------------------------|-------------------------|-------------------|
 | **Soft Skills**                   | Expert                  | 7                 |
-| **Workstation**                   | Basic                   | 1                 |
 | **Web**                           | Basic                   | 1                 |
-| **Algorithms & Data Structures**  | Expert                  | 7                 |
-| **Scrum**                         | Expert                  | 7                 |
-| **Logging**                       | Intermediate            | 3                 |
+| **Scrum**                         | Intermediate            | 3                 |
 | **Building/Packaging**            | Intermediate            | 3                 |
 | **Documentation**                 | Intermediate            | 3                 |
 | **Spring Ecosystem**              | Expert                  | 7                 |
 | **Cryptography**                  | Expert                  | 7                 |
 | **IaaC**                          | Basic                   | 1                 |
+| **Workstation**                   | Basic                   | 1                 |
+| **NoSQL**                         | Intermediate            | 3                 |
 
-*Secondary Skills Total:* 7 + 1 + 1 + 7 + 7 + 3 + 3 + 3 + 7 + 7 + 1 = **47 points**
+*Secondary Skills Total:* 7 + 1 + 3 + 3 + 3 + 7 + 7 + 1 + 1 + 3 = **36 points**
 
 ---
 
 ## Total Minimum Points Calculation
 
-- **Core Skills Total:** 112 points  
-- **Secondary Skills Total:** 47 points  
-- **Overall Total Minimum Required:** 112 + 47 = **159 points**
+- **Core Skills Total:** 119 points  
+- **Secondary Skills Total:** 36 points  
+- **Overall Total Minimum Required:** 119 + 36 = **155 points**
 
 ---
 
@@ -118,7 +118,7 @@ A candidate is classified as Senior if they meet **all** the following criteria:
    All Secondary skills must be maintained at or above the specified minimum levels.
 
 3. **Total Points Requirement:**  
-   The candidate’s cumulative score (from both Core and Secondary skills) must be **at least 159 points**. A score below this threshold indicates the candidate does not fully meet the Senior level expectations.
+   The candidate’s cumulative score (from both Core and Secondary skills) must be **at least 155 points**. A score below this threshold indicates the candidate does not fully meet the Senior level expectations.
 
 ---
 
