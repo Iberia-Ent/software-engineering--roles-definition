@@ -2,79 +2,56 @@
 
 # Cloud Engineer
 
-## What you will do
+## Role Description
 
-We are looking for a Cloud Engineer to join our product team.
+The Cloud Engineer is responsible for implementing, and maintaining scalable cloud infrastructure on AWS. This role ensures that cloud infrastructure follows best practices, is reliable, secure, and cost-effective. The Cloud Engineer works closely with the solution architects and development teams to enable cloud adoption and implements monitoring solutions to ensure optimal system performance. Working primarily with AWS, Terraform, and various observability tools, the Cloud Engineer bridges the gap between infrastructure and development teams, fostering a collaborative environment focused on continuous improvement.
 
-This team is entrusted with evolving a product platform with a continuous demand of digital features and improving digital channel capabilities. In this team you will create scalable and highly reliable software systems, CI/CD pipelines and cloud adoption.
+## Responsibilities
 
-This domain is key to Iberia and has high visibility and impact in the company.
-
+- **Infrastructure Management:** implement, and maintain AWS cloud infrastructure following the Well-Architected Framework principles. Write and maintain Infrastructure as Code using Terraform.
+- **Monitoring & Observability:** Implement and configure monitoring solutions (Dynatrace, CloudWatch). Design alerts for proactive issue detection and analyze metrics and telemetry data to identify performance bottlenecks.
+- **Container & Serverless:** Deploy and manage containerized applications using ECS and Docker. Implement and optimize serverless architectures.
+- **Collaboration & Enablement:** Partner with development teams to enable cloud adoption and best practices. Act as a bridge between infrastructure and development teams.
+- **Code Review & Documentation:** Conduct infrastructure code reviews and participate in pair programming sessions. Document cloud architectures, operational procedures, and best practices.
+- **Performance Optimization:** Optimize cloud resources for performance and cost-efficiency.
+- **CI/CD Support:** Collaborate on CI/CD pipeline configurations and ensure infrastructure changes are integrated into deployment workflows.
 
 ## What we expect from you
 
-A Cloud Engineer in Iberia is responsible for executing the best practices defined in the 'Cloud Engineers Local Guild' and grow the organization in the adoption of SRE and Cloud best practices. It is the owner of cloud related tasks, and to empower the team in the knowledge of cloud practices so that they can mature in the product model. The Cloud Engineer is expected to have a very proactive attitude and work close with Developers Team, and others Product Cloud Engineers around the Organization.
-- Functional requirements
-  - Aligned with Product Team and 'Cloud Enablement Engine'
-  - Commitment to work based on cloud best practices & Well Architected Framework
-  - Proactive attitude to detect and propose improvements
-  - Empower Developers Team in cloud adoption
-  - Great communication with the rest of the Cloud Engineers
-- Observability
-  - Review definitions with Solutions Architect
-  - Design & implementations of tools’ agent (e.g.: Dynatrace, Datadog, Splunk...)
-  - Design & implementat alerts
-  - Review and improve application events and technical logs
-- Security
-  - Identify potential issues to communicate to Solutions Architect
-  - Provide feedback
-- Deployability
-  - Define CI/CD pipelines (implementation, execution, evolution...)
-  - Review and implement IaC
-- Scalability & Performance
-  - Review and support team implementing high scalable & optimized solutions
-- Resiliency
-  - Implement stability patterns (e.g. service mesh, rollback strategy...)
-- Implementation 
-  - Collaborative programming
-  - Infrastructure Code review
-- Architecture and Design
-  - Design sessions with the team, Solutions Architect and Software Engineering
-  - Communicate with Software Engineering for a common vision
-  - Communicate with Tech Lead
-- Roadmap vision
-  - Multiple sprints
+- **Educational Background:** Bachelor's Degree in Computer Science, Information Technology or equivalent practical experience.
+- **Experience:** 3+ years of hands-on experience with AWS cloud services and infrastructure management.
+- **Technical Skills:**
+    - Good understanding of cloud architecture principles and ability to implement architectural designs
+    - Strong experience with AWS services (EC2, S3, RDS, VPC, IAM, etc.)
+    - Proficiency in Terraform for Infrastructure as Code
+    - Solid knowledge of Docker and container orchestration with ECS/EKS
+    - Experience with serverless and cloud-native architectures(API Gateway, Cloudfront, etc)
+    - Understanding of monitoring tools and telemetry concepts
+    - Proficiency in at least one scripting language (Python, Bash, or similar)
+    - Version control with Git
+- **Soft Skills:**
+    - Strong interpersonal skills with ability to work effectively in cross-functional teams
+    - Excellent communication skills to explain technical concepts to various stakeholders
+    - Proactive problem-solving approach
+    - Collaborative mindset with focus on knowledge sharing
 
+Preferred Qualifications:
+- Experience with Kubernetes/EKS or ECS
+- Understanding of security best practices in cloud environments
+- Good understanding of CI/CD concepts and tools
+- Good knowledge of one or more programming languages (Java, Python, etc.)
+- Experience with observability tools (Dynatrace, CloudWatch, etc.)
+- Strong knowledge of networking concepts in cloud environments(Transit Gateway, Route tables, Route53 Resolver, etc.)
 
 ## How you will work
 
-Iberia works in product-oriented teams, with full ownership and autonomy inside their boundaries. As Cloud Engineer, your environment will be:
-- IaC
-- CI/CD
-- Observability Practices
-- New architectures based on Serverless
-
-But, you need to understand also:
-- Methodology
-  - Agile (Scrum)
-- Skills
-  - Relational, key-value and document Databases
-  - Application Performance Analysis
-  - Performance and load testing
-- Environment (where development succeed)
-  - Test Driven Development, Domain Driven Design
-  - Object Oriented Programming and Design
-  - Hexagonal and Event Driven architectures
-  - Focused on Product Development Team
-
-But we are keen to know other things that can be of importance: Side projects, other stack knowledge, hidden skills...
-
-You will work with spanish people and read and write requirements and technical documentation in English, so you will need to know these languages at this level.
-
-**There is a defined career path in the company so every software engineer can grow**
+- **Highly Collaborative Culture:** You'll work closely with developers, product owners, and other cloud engineers in a collaborative environment focused on knowledge sharing and continuous improvement.
+- **Agile Methodology:** Participate in sprint planning, daily standups, and retrospectives as part of product-oriented teams with high autonomy.
+- **Mentorship & Growth:** Access to Solutions Architects, Tech Leads, and DevSecOps teams for guidance. Regular team sessions for sharing best practices and learnings.
+- **Innovation Focus:** Work with modern cloud technologies including serverless architectures, containerization, and cutting-edge observability practices.
 
 ## With whom
 
-You will be a part of an agile team with its Product Owner, QA, Scrum Master, and a 'Cloud Enablement Engine'.
+You will be part of an agile product team working alongside Product Owners, QAs, Scrum Masters, and Developers. You'll collaborate closely with the Cloud Enablement Engine and other Cloud Engineers across the organization to establish and maintain cloud standards.
 
-There are some people that will be able to assist you: There is a Software Engineering Team that can help with architectural, design, or other high-level problems; there are DevSecOps and more Cloud Engineers to help in more specific needs, some key roles such as Tech Leads and Solutions Architects to support and guide you... You will not be alone.
+Support is available from Software Engineering Teams and Solutions Architects who provide architectural designs and guidance, DevSecOps teams for security practices, and key roles such as Tech Leads who will help translate architectural vision into implementation. You'll also engage with stakeholders across different product teams, sharing your infrastructure expertise and learning from others in a culture of continuous improvement.
