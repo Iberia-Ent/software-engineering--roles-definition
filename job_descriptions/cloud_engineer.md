@@ -41,7 +41,7 @@ Preferred Qualifications:
 - Good understanding of CI/CD concepts and tools
 - Good knowledge of one or more programming languages (Java, Python, etc.)
 - Experience with observability tools (Dynatrace, CloudWatch, etc.)
-- Strong knowledge of networking concepts in cloud environments(Transit Gateway, Route tables, Route53 Resolver, etc.)
+- Strong knowledge of networking concepts in cloud environments (Transit Gateway, Route tables, Route53 Resolver, etc.)
 
 ## How you will work
 
