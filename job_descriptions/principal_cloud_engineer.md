@@ -28,7 +28,7 @@ As a Principal Cloud Engineer, you are the organization's most senior technical 
     - Expert-level knowledge of AWS services and architectural patterns
     - Master-level proficiency with Terraform and Infrastructure as Code at enterprise scale
     - Deep expertise in containerization (Docker, ECS, EKS) and serverless architectures
-    - Deep understanding between cloud-native, cloud ready, and legacy systems
+    - Deep understanding of the differences between cloud-native, cloud ready, and legacy systems
     - Extensive experience with observability, monitoring, and performance optimization
     - Advanced programming skills in at least one language (Python, Java, etc.)
     - Expert understanding of cloud security, networking, and compliance
