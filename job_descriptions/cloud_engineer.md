@@ -25,7 +25,7 @@ The Cloud Engineer is responsible for implementing, and maintaining scalable clo
     - Strong experience with AWS services (EC2, S3, RDS, VPC, IAM, etc.)
     - Proficiency in Terraform for Infrastructure as Code
     - Solid knowledge of Docker and container orchestration with ECS/EKS
-    - Experience with serverless and cloud-native architectures(API Gateway, Cloudfront, etc)
+    - Experience with serverless and cloud-native architectures (API Gateway, Cloudfront, etc)
     - Understanding of monitoring tools and telemetry concepts
     - Proficiency in at least one scripting language (Python, Bash, or similar)
     - Version control with Git
