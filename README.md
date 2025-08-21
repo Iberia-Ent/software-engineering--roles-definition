@@ -9,6 +9,7 @@ Explore specific roles:
 
 - [Cloud Engineer](./job_descriptions/cloud_engineer.md)
 - [Cloud Lead](./job_descriptions/cloud_lead.md)
+- [Principal Cloud Engineer](./job_descriptions/principal_cloud_engineer.md)
 - [Cloud Architect](./job_descriptions/cloud_architect.md)
 - [Principal Cloud Architect](./job_descriptions/principal_cloud_architect.md)
 - [QA Engineer](./job_descriptions/qa_engineer.md)
@@ -17,7 +18,7 @@ Explore specific roles:
 - [Software Engineer](./job_descriptions/software_engineer.md)
 - [Tech Lead (TL)](./job_descriptions/tech_lead.md)
 - [Developer Relations Manager](./job_descriptions/devrel.md)
-- [Principal Engineer](./job_descriptions/principal_engineer.md)
+- [Principal Software Engineer](./job_descriptions/principal_software_engineer.md)
 - [Engineering Manager](./job_descriptions/engineering_manager.md)
 - [Observability Manager](./job_descriptions/observability_manager.md)
 - [Solutions Architect (SA)](./job_descriptions/solution_architect.md)
