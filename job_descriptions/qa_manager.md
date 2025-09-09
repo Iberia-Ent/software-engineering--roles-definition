@@ -1,51 +1,37 @@
 # QA Manager
 
-## What you will do
+## Role Summary: The Quality Architect
 
-As a QA Manager, you will oversee all QA Engineers in the organization through QA Leads. Your responsibilities will include:
+The **QA Manager** is the company's global quality strategist and a key driver of cultural change. Their mission is to define, lead, and oversee the software quality strategy, ensuring it is deeply aligned with business objectives. This role is more strategic and tactical than technical; they establish the "what" and "why" of quality, setting the vision and being the final decision-maker on matters affecting the entire organization.
 
-- Planning and implementing improvements to the QA model.
-- Creating documentation for standardized processes.
-- Ensuring the test plan is correctly implemented across the organization.
-- Creating and communicating dashboard metrics and KPIs to measure the performance of the QA function globally.
-- Regularly following up with QA Leads on their status and working with them to ensure quality in their respective products.
+They are responsible for promoting a "Shift-Left" mindset, where quality is built into the product from its inception, and for guaranteeing that the investment in quality yields a measurable return for the business. They provide the vision, the framework, and the governance that empower the teams to deliver high-quality products efficiently and consistently.
 
 ## What we expect from you
 
-QA Manager plays a crucial role in ensuring the quality of software products. You are responsible for overseeing the entire quality assurance process, from planning to implementation. This includes developing QA policies and procedures, managing QA teams, and coordinating with other departments to ensure that quality standards are met.
-
-QA Managers work closely with product managers, solution architects, and technical leads to identify potential issues and implement solutions. They also play a key role in risk management, as they are responsible for identifying and mitigating risks related to software quality.
-
-In addition to technical skills, QA Managers need strong leadership and communication skills. You must be able to effectively manage a team and communicate with various stakeholders, including senior management and internal business clients.
-
-You focus as QA Manager is on strategic planning and coordination, and coordinate them through QA Leads in product teams. You will be responsible for ensuring that quality standards are met across the organization and that QA processes are efficient and effective.
-
-
-- Strong leadership skills to manage and mentor QA Leads and their teams.
-- Extensive experience in quality assurance, including knowledge of QA methodologies and processes.
-- Ability to create and implement strategic plans to improve QA processes and procedures.
-- Strong communication skills to effectively convey information across different levels of the organization.
-- Proficiency in using tools to track and report on key QA metrics.
+<ul>
+    <li><strong>Strategic and Business Vision:</strong> The ability to see beyond technical metrics and translate quality initiatives into tangible business impact. You must think like a business leader who specializes in quality and connect quality improvements to goals like increased customer satisfaction, reduced support costs, or faster time-to-market.</li>
+    <li><strong>Inspirational Leadership and Influence:</strong> The capacity to lead without direct authority, inspiring and persuading teams and stakeholders at all levels to adopt new quality practices. You drive change through influence, clear communication, and demonstrating value, not by command.</li>
+    <li><strong>Data-Driven Decision-Making:</strong> A strong analytical mindset, making critical decisions about tools, processes, and strategy based on objective data and KPIs. You use metrics to tell a compelling story about the state of quality and to justify strategic choices.</li>
+    <li><strong>Excellent Communication and Negotiation Skills:</strong> The ability to articulate a clear strategic vision to both technical and executive audiences, and to negotiate for the resources, priorities, and timelines needed to ensure the success of the quality strategy.</li>
+    <li><strong>Strategic Technical Understanding:</strong> While not a hands-on technical role, you must possess a deep understanding of QA methodologies, processes, and the technology landscape. This knowledge is crucial for making informed strategic decisions and evaluating proposals from QA Champions with credibility.</li>
+</ul>
 
 ## How you will work
 
-As a QA Manager at Iberia, you will oversee the quality assurance process across multiple teams, ensuring that testing strategies align with company standards and objectives. You will be responsible for:
+As the QA Manager, your work is focused on high-level planning, governance, and enablement. You will design and maintain the company's **Shift-Left transformation plan**, which includes communication strategies, risk management, and a phased implementation roadmap. You will also define and document the company's **quality standards**, including robust criteria for the Definition of Ready (DoR) and Definition of Done (DoD).
 
-- Methodology
-    - Agile (Scrum)
-- Skills
-    - Overseeing the implementation of Unit, Integration, Acceptance, and e2e tests following the testing pyramid
-    - Coordinating performance and load testing efforts
-    - Guiding synthetic and exploratory/manual testing processes
-    - Ensuring code quality through tools like Sonar, linter, and library dependency management
-    - Reviewing and improving CI/CD pipelines
-    - Overseeing application observability and security measures
-    - We value additional skills and experiences, such as side projects, knowledge of other tech stacks, and hidden skills.
+A significant part of your role involves **governance and oversight**. You will lead monthly strategic sessions with the **QA Champions** to set direction, evaluate their technical proposals (PoCs), and make the final decision on their corporate adoption based on scalability, cost, and strategic alignment. You will also oversee the implementation of the quality strategy, ensuring external service providers comply with the necessary training and certification plans.
 
-You will work with a diverse team and handle requirements and technical documentation in English and Spanish.
-
-There is a defined career path in the company so every QA Manager can grow
+Your work is heavily data-oriented. You will define and evolve key quality metrics (KPIs) and maintain centralized tracking dashboards using corporate tools like **Jira, Xray, and Jellyfish**. You will prepare and present monthly and quarterly reports (QBRs) on the state of quality, highlighting progress toward strategic objectives.
 
 ## With whom
 
-As a QA Manager, you will work closely with Product Owners, Scrum Masters, Tech Leads, Solutions Architects, and other QA Engineers. You will also collaborate with the Software Engineering Team for architectural, design, or other high-level problems, and with DevOps and cloud engineers for more specific needs. You will play a key role in supporting and guiding your team, ensuring that no one is left alone in their tasks.
+You will work closely with the **QA Champions**, who are your primary agents for implementing the strategy. You provide them with strategic direction and mentorship, and they provide you with technical insights and on-the-ground execution.
+
+You will report to and collaborate with the **Head of Software Engineering** and other **senior stakeholders**, aligning the quality strategy with broader engineering and business goals and communicating its value and impact.
+
+To ensure a holistic approach, you will actively participate in **Architecture, Product, and DevOps committees** to identify cross-cutting dependencies and risks that could impact product quality.
+
+You will foster early collaboration by standardizing "Two Amigos" sessions, working with **Business stakeholders and Product Owners (POs)** before technical refinement to ensure requirements are clear and unambiguous.
+
+Finally, you will be responsible for **validating new QA profiles** before they join the company, ensuring they have the right skills and mindset to contribute to our quality culture.

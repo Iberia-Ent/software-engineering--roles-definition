@@ -1,43 +1,33 @@
-# QA Lead
+# QA Champion (or Principal QA)
 
-## What you will do
+## Role Summary: The Player-Coach
 
-As a QA Lead at Iberia, you will be responsible for overseeing the quality assurance process within a specific business domain, which aggregates multiple digital products. You will manage and mentor QA Engineers, ensuring that testing strategies align with company standards and objectives. You will report to and be managed by the QA Manager.
+The **QA Champion (or Principal QA)** is a senior, hands-on quality expert who leads by example from within a squad. They are the technical quality reference within their product domain, combining the day-to-day responsibilities of a Product QA with the additional duties of technical oversight, mentorship, and innovation for their peers. They act as the first line of technical leadership, responsible for translating the QA Manager's global strategy into effective, coherent, and high-quality execution on the ground.
 
-## Responsibilities
-
-- **Leadership**: Lead and mentor QA Engineers within your business domain, fostering a culture of quality and continuous improvement.
-- **Testing Strategy**: Define and implement testing strategies for digital products within your business domain, ensuring alignment with the overall QA strategy.
-- **Test Implementation**: Oversee the implementation of Unit, Integration, Acceptance, and e2e tests following the testing pyramid.
-- **Performance Testing**: Coordinate performance and load testing efforts.
-- **Exploratory Testing**: Guide synthetic and exploratory/manual testing processes.
-- **Code Quality**: Ensure code quality through tools like Sonar, linter, and library dependency management.
-- **CI/CD Pipelines**: Review and improve CI/CD pipelines.
-- **Observability and Security**: Oversee application observability and security measures.
-- **Collaboration**: Work closely with Product Owners, Scrum Masters, Tech Leads, Solutions Architects, and other stakeholders to ensure quality standards are met.
-- **Reporting**: Regularly report on QA activities and metrics to the QA Manager.
+As a "player-coach," the QA Champion not only directs from the sidelines but actively participates on the field. They demonstrate excellence through their own high-level execution while simultaneously raising the technical bar, resolving complex blockers, and ensuring methodological consistency for all Product QAs in their domain. Their mission is to act as a quality multiplier, driving technical evolution from the ground up by researching, proposing, and leading proofs of concept for new tools and methodologies.
 
 ## What we expect from you
 
-- **Methodology**: Agile (Scrum)
-- **Skills**:
-  - Extensive experience in quality assurance, including knowledge of QA methodologies and processes.
-  - Strong leadership skills to manage and mentor QA Engineers.
-  - Proficiency in implementing Unit, Integration, Acceptance, and e2e tests.
-  - Experience in coordinating performance and load testing efforts.
-  - Knowledge of synthetic and exploratory/manual testing processes.
-  - Proficiency in using tools like Sonar, linter, and library dependency management.
-  - Experience in reviewing and improving CI/CD pipelines.
-  - Knowledge of application observability and security measures.
-  - Strong communication skills to effectively convey information across different levels of the organization.
-  - Additional skills and experiences, such as side projects, knowledge of other tech stacks, and hidden skills, are valued.
+<ul>
+  <li><strong>Deep Technical Expertise:</strong> Mastery of test automation frameworks, programming languages, software design patterns, CI/CD pipelines, and modern QA methodologies. You must be able to solve the team's most challenging technical problems with autonomy and proficiency.</li>
+  <li><strong>Leadership by Example:</strong> A "player-coach" mindset. You are in the trenches, demonstrating best practices through your own work and inspiring others to strive for the same level of excellence. Your credibility is born from your demonstrated technical competence.</li>
+  <li><strong>Mentorship and Coaching Skills:</strong> A genuine passion for helping others grow. You are patient, empathetic, and capable of providing clear, constructive feedback to elevate your peers' skills, fostering their autonomy and confidence.</li>
+  <li><strong>Proactive Problem-Solving:</strong> The ability to anticipate technical challenges, identify bottlenecks, and take the initiative to resolve them before they affect team velocity or product quality. You think in terms of prevention, not just reaction.</li>
+  <li><strong>Strong Communication and Mediation Skills:</strong> The ability to clearly articulate complex technical concepts to different audiences (both technical and non-technical stakeholders) and to effectively mediate disagreements to find productive, consensus-based solutions.</li>
+</ul>
 
 ## How you will work
 
-Iberia works in product-oriented teams, with full ownership and autonomy inside their boundaries. As a QA Lead, you will work with a diverse team and handle requirements and technical documentation in English and Spanish.
+As a QA Champion, your work is a blend of hands-on execution and technical leadership within an Agile (Scrum) environment. You will be an active, contributing member of your own squad, attending refinement and planning sessions to challenge requirements and promote "testability" from the inception of an idea.
 
-**There is a defined career path in the company so every QA Lead can grow**
+Your leadership will manifest through tangible actions: leading code review sessions, conducting pair testing to solve complex problems, and supervising the health of CI/CD pipelines and quality dashboards across your domain. You will teach your peers to interpret data and act on it. A key part of your role involves reviewing and approving QA Pull Requests (PRs), providing constructive feedback to elevate the team's technical standards. You will also coordinate cross-cutting quality initiatives, such as implementing E2E tests that span multiple services.
 
 ## With whom
 
-You will be a part of an agile team with its Product Owner, QA Engineers, Scrum Master, etc. There are some people that will be able to assist you: There is a Software Engineering Team that can help with architectural, design, or other high-level problems; there are DevOps and cloud engineers to help in more specific needs, some key roles such as Tech Leads and Solutions Architects to support and guide you... You will not be alone.
+You will be the main liaison with the **QA Manager**, acting as the bridge between the global strategy and daily execution. You will report on your domain's status, propose technical improvements (PoCs), and translate the received strategic direction into actionable plans for your peers.
+
+Your primary collaboration will be with the **Product QAs** in your domain. You will act as their mentor, technical guide, and first point of contact for resolving conflicts and blockers, fostering their professional growth and ensuring methodological consistency.
+
+As an embedded member of a squad, you will work side-by-side with your **Tech Lead** to influence technical design and promote testability. You will also collaborate closely with all **squad members** (Developers, PO) in your day-to-day activities, demonstrating best practices through your own work.
+
+You will coordinate with other **QA Champions** to share knowledge, solve cross-cutting problems, and ensure consistency across the entire organization. Punctually, you will intervene in other squads within your domain to support their respective **Product QA** in resolving complex challenges.

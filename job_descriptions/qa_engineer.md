@@ -1,79 +1,35 @@
-![](../static/iberia.png)
+# Product QA
 
-# QA Engineer
+## Role Summary: The Guardian of Quality
 
-## What you will do
+The **Product QA** is the facilitator and the conscience of quality, deeply embedded within a product squad. Their role is eminently practical, focusing on ensuring the quality of the entire development process and guaranteeing that all team members adhere to the defined standards. They are the first and last line of defense for quality: the first, by validating the clarity of requirements before development begins, and the last, by building the E2E automated tests that protect the user experience.
 
-We're looking for a QA Engineer to join our Iberia team.
-
-This team is entrusted with renovating the platform introducing state of the art observability, CI/CD improvements, hotspots and critical paths optimization, possibly rewriting and converting to serverless strategic components, increasing test coverage including load, performance and synthetic testing...
+As the operational quality agent, the Product QA is responsible for defining the sprint-level testing strategy, preventing defects through early review of user stories (static testing), and acting as the gatekeeper for the Definition of Ready (DoR). Their main coding responsibility is the development and maintenance of End-to-End (E2E) test scripts, which form the critical automated safety net for the product. They are the implementer of the E2E testing strategy and the guardian of quality standards at every stage of the development lifecycle.
 
 ## What we expect from you
 
-A senior quality assurance engineer in Iberia is responsible for defining and implementing testing strategies at story level following the epic strategy defined by the senior QA. The senior QA engineer is expected to have a very proactive attitude and work totally independent.
-
-- Functional requirements
-  - 3 amigos with TL and PO
-  - Challenge feature implementation and identify conflictive features to remove
-- Observability
-  - Review definitions with SA
-  - Review APM tools (e.g. Dynatrace)
-  - Define alerts
-  - Review application events and technical logs
-- Security
-  - Identify potential issues to communicate to Solutions Architect
-  - Review security reports and alerts
-- Deployability
-  - Review CI/CD pipelines status
-- Code Quality
-  - Review status of tools like sonar, linter, library dependency management
-- Performance
-  - Review performance tests in collaboration with Tech Leads and Solution Architects
-  - Review synthetic tests with Tech Leads and Solution Architects
-- Scalability
-  - Review load tests in collaboration with Tech Leads and Solution Architects
-- Testing
-  - Define and review testing strategy in collaboration with teams following Agile Test Quadrants and Testing Pyramid
-  - Define tests in every ambit: Unit, acceptance, contract, e2e, UI, A11y, load, performance, synthetic...
-  - Review tests created by the teams
-- Resiliency
-  - Test stability patterns (e.g. circuit breaker, retry policy...)
-
-- Implementation
-
-  - Pair/Mob programming
-  - Coordinate QA engineering work
-  - Support Implementation of automated tests
-- Architecture and Design
-  - Review documentation
-- Mentoring
-  - Support SwE on implementing best practices in the teams
-- Recruiting
-  - Onboarding (specific tasks – ex. team practices onboarding)
-  - Technical interviews (shadowing)
-- Roadmap vision
-  - A few sprints
+<ul>
+  <li><strong>Technical Competence:</strong> Solid practical skills in E2E test automation tools (e.g., WebdriverIO, Karate), test case management systems (e.g., Xray), and a deep understanding of the testing pyramid to guide and advise developers with credibility.</li>
+  <li><strong>Meticulous Attention to Detail:</strong> A sharp, trained eye for identifying inconsistencies, ambiguities, and potential errors in both requirements and software, seeing what others might miss in the daily rush.</li>
+  <li><strong>Collaborative and Coaching Mindset:</strong> The ability to work effectively and guide developers in implementing tests, not as a supervisor, but as a partner. This translates to sitting down with a developer to review the testing strategy for a new feature.</li>
+  <li><strong>Proactive and Inquisitive Attitude:</strong> A natural curiosity to ask "what if...?" and to proactively explore the system beyond the explicit requirements. You don't wait to be told what to test; you investigate APIs, check logs, and constantly think about how a user might "break" the application.</li>
+  <li><strong>Clear Communication Skills: </strong> The ability to articulate test plans, acceptance criteria, and defect reports in a clear, concise, and unambiguous way, adapting your language to ensure everyone on the team, technical or not, understands the quality strategy and status.</li>
+</ul>
 
 ## How you will work
 
-Iberia works in product-oriented teams, with full ownership and autonomy inside their boundaries.
+Operating within an Agile (Scrum) squad, your daily work will be deeply integrated with the team's ceremonies and workflow. You will actively participate in requirements definition sessions, applying static testing techniques to user stories and collaborating on clear Acceptance Criteria. A key responsibility will be creating and managing test cases in Xray and signing off on the Definition of Ready (DoR) for stories before they enter development.
 
-- Methodology
-  - Agile (Scrum)
-- Skills
-  - Unit, Integration, Acceptance and e2e tests following the testing pyramid
-  - Performance and load testing
-  - Synthetic testing
-  - Exploratory/Manual testing
-
-But we are keen to know other things that can be of importance: Side projects, other stack knowledge, hidden skills...
-
-You will work with spanish people and read and write requirements and technical documentation in English, so you will need to know these languages at this level.
-
-**There is a defined career path in the company so every software engineer can grow**
+Your main technical task will be to code and maintain E2E test scripts in parallel with feature development. You will integrate these automated tests into the CI/CD pipeline and be the first to analyze any failures. You will supervise the tests implemented by developers, perform focused exploratory testing on high-risk areas, and manage the defect lifecycle from detection and triage to final validation. As a collaborator in code reviews, you will provide a quality-focused perspective, ensuring that the tests associated with a Pull Request are relevant and robust.
 
 ## With whom
 
-You will be a part of an agile team with its Product Owner, QA, Scrum Master, etc.
+Your primary reporting and mentorship relationship is with the **QA Champion** of your domain. They are your go-to technical guide, the person who helps you resolve complex challenges, and to whom you provide quality metrics and updates from your squad.
 
-There are some people that will be able to assist you: There is a Software Engineering Team that can help with architectural, design, or other high-level problems; there are devops and cloud engineers to help in more specific needs, some key roles such as Tech Leads and Solutions Architects to support and guide you... You will not be alone.
+Your day-to-day work is a close partnership with your squad's **Developers**. You will act as their quality coach, supervising their test implementation, doing pair testing, and collaborating in code reviews to ensure quality is built into every feature.
+
+You will work side-by-side with the **Product Owner (PO)**, collaborating on defining clear requirements, writing unambiguous Acceptance Criteria, and triaging defects based on business impact.
+
+You will collaborate with your squad's **Tech Lead,** especially during the design phase of new functionalities, to ensure solutions are built with testability in mind from the very beginning.
+
+During the initial stages of feature definition, you will interact with **Business Stakeholders** alongside the PO to apply static testing techniques and prevent ambiguities before they become development problems.
