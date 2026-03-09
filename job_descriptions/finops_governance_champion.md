@@ -10,11 +10,12 @@ The FinOps & Governance Champion is responsible for driving financial accountabi
 
 - **Cost Management & Optimization:** Analyze and monitor AWS cloud spending across accounts and services. Identify cost optimization opportunities (right-sizing, Reserved Instances, Savings Plans, spot usage) and drive their implementation. Establish cost allocation strategies using tagging standards and AWS Cost Explorer.
 - **Financial Reporting & Forecasting:** Build and maintain dashboards and reports for cloud cost visibility at team, product, and organizational levels. Provide accurate cost forecasting and budgeting aligned with business planning cycles. Deliver regular cost reviews and showback/chargeback reports to stakeholders.
-- **Governance & Policy Enforcement:** Define and enforce cloud governance policies using AWS Organizations, Service Control Policies (SCPs), and IAM guardrails. Implement preventive and detective controls to ensure compliance with internal standards and regulatory requirements. Manage and maintain Terraform modules and policies (e.g., Sentinel, OPA) to codify governance rules.
+- **Governance & Policy Enforcement:** Define and enforce cloud governance policies using AWS Organizations, Service Control Policies (SCPs), and IAM guardrails. Implement preventive and detective controls to ensure compliance with internal standards and regulatory requirements. Understand and work with Infrastructure as Code (Terraform) and policy-as-code frameworks (OPA) to codify governance rules.
 - **Tagging & Resource Management:** Design and enforce tagging strategies for cost allocation, ownership, and lifecycle management. Identify and remediate untagged, orphaned, or idle resources. Automate resource lifecycle policies to reduce waste.
 - **Collaboration & Enablement:** Partner with engineering and product teams to embed FinOps practices into their workflows. Conduct training sessions and knowledge-sharing workshops on cost-aware architecture and governance. Act as the primary point of contact for cost-related queries and governance exceptions.
 - **Continuous Improvement:** Stay current with AWS pricing models, new services, and FinOps best practices. Contribute to the evolution of governance frameworks and automation. Benchmark cloud spending against industry standards and FinOps Foundation maturity models.
-- **Tooling & Automation:** Implement and manage FinOps tooling (AWS Cost Explorer, AWS Budgets, CUDOS, CID dashboards). Automate cost anomaly detection and alerting. Develop Infrastructure as Code (Terraform) for governance and cost control automation.
+- **Tooling & Automation:** Implement and manage FinOps tooling (AWS Cost Explorer, AWS Budgets, CUDOS, CID dashboards). Automate cost anomaly detection and alerting. Leverage AI-based tools to process cost and usage data, and generate dashboards and insights through natural language interfaces.
+- **KPIs & Business Alignment:** Define, track, and report on cloud financial KPIs aligned with organizational goals. Provide actionable metrics to business roles and leadership to support data-driven decision-making. Deliver executive-level reporting and presentations to management and senior leadership on cloud cost performance, governance posture, and optimization roadmap.
 
 ## What we expect from you
 
@@ -23,14 +24,16 @@ The FinOps & Governance Champion is responsible for driving financial accountabi
 - **Technical Skills:**
     - Solid understanding of AWS services and their pricing models (EC2, S3, RDS, Lambda, ECS, etc.)
     - Experience with AWS cost management tools (Cost Explorer, Budgets, Cost and Usage Reports, Compute Optimizer)
-    - Proficiency in Terraform for Infrastructure as Code, including policy-as-code frameworks (Sentinel, OPA)
+    - Ability to understand and work with Infrastructure as Code (Terraform) and policy-as-code frameworks (OPA)
     - Knowledge of AWS Organizations, Service Control Policies (SCPs), and IAM governance
-    - Experience building dashboards and reports (QuickSight, Grafana, or similar)
+    - Experience building dashboards and reports (QuickSight or similar)
+    - Familiarity with AI tools for data analysis and natural language-driven dashboard generation
     - Proficiency in at least one scripting language (Python, Bash, or similar) for automation
     - Version control with Git
 - **Soft Skills:**
     - Strong analytical skills with the ability to translate financial data into actionable insights
-    - Excellent communication skills to engage both technical and non-technical stakeholders
+    - Excellent communication skills to engage both technical and non-technical stakeholders, including management and senior leadership
+    - Ability to produce executive-level reporting and present cloud financial insights to business and directional areas
     - Proactive mindset with a focus on driving cultural change towards financial accountability
     - Collaborative approach with the ability to influence without direct authority
 
@@ -38,7 +41,7 @@ Preferred Qualifications:
 - FinOps Certified Practitioner or equivalent certification
 - AWS Solutions Architect or Cloud Practitioner certification
 - Experience with chargeback/showback models in multi-team organizations
-- Familiarity with compliance frameworks (SOC 2, ISO 27001, GDPR)
+- Familiarity with AWS CIS Benchmarks and cloud security best practices
 - Experience with observability tools (Dynatrace, CloudWatch) for cost-correlated performance analysis
 - Knowledge of Kubernetes/ECS cost allocation and optimization strategies
 
