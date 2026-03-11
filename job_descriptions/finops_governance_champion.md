@@ -16,6 +16,7 @@ The FinOps & Governance Champion is responsible for driving financial accountabi
 - **Continuous Improvement:** Stay current with AWS pricing models, new services, and FinOps best practices. Contribute to the evolution of governance frameworks and automation. Benchmark cloud spending against industry standards and FinOps Foundation maturity models.
 - **Tooling & Automation:** Implement and manage FinOps tooling (AWS Cost Explorer, AWS Budgets, CUDOS, CID dashboards). Automate cost anomaly detection and alerting. Leverage AI-based tools to process cost and usage data, and generate dashboards and insights through natural language interfaces.
 - **KPIs & Business Alignment:** Define, track, and report on cloud financial KPIs aligned with organizational goals. Provide actionable metrics to business roles and leadership to support data-driven decision-making. Deliver executive-level reporting and presentations to management and senior leadership on cloud cost performance, governance posture, and optimization roadmap.
+- **Vendor Management:** Manage the relationship with cloud service providers and third-party vendors, including the issuance of purchase orders, and the review and validation of invoices to ensure accuracy and alignment with contracted terms and budgets.
 
 ## What we expect from you
 
@@ -54,6 +55,6 @@ Preferred Qualifications:
 
 ## With whom
 
-You will be part of the Cloud Enablement Engine or a cross-functional platform team, working alongside Cloud Engineers, Solutions Architects, and DevSecOps professionals. You'll collaborate closely with Product Owners and engineering teams across the organization to establish and maintain cost optimization and governance standards.
+You'll collaborate closely with Product Owners and engineering teams across the organization to establish and maintain cost optimization and governance standards. You will also work hand in hand with the Iberia Tech Finance Manager to align financial practices and requirements, ensuring consistency between cloud cost management and the organization's financial strategy.
 
 Support is available from Software Engineering Teams and Solutions Architects who provide architectural guidance, Cloud Engineers for infrastructure expertise, and Finance stakeholders for budget alignment. Key roles such as Tech Leads and Engineering Managers will help prioritize and champion governance initiatives across their teams. You'll engage with stakeholders at all levels, building a culture of financial accountability and operational excellence.
