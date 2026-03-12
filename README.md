@@ -12,6 +12,7 @@ Explore specific roles:
 - [Principal Cloud Engineer](./job_descriptions/principal_cloud_engineer.md)
 - [Cloud Architect](./job_descriptions/cloud_architect.md)
 - [Principal Cloud Architect](./job_descriptions/principal_cloud_architect.md)
+- [FinOps & Governance Champion](./job_descriptions/finops_governance_champion.md)
 - [Product QA](./job_descriptions/qa_engineer.md)
 - [QA Champion](./job_descriptions/qa_lead.md)
 - [QA Manager](./job_descriptions/qa_manager.md)
