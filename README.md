@@ -24,6 +24,7 @@ Explore specific roles:
 - [Solutions Architect (SA)](./job_descriptions/solution_architect.md)
 - [Principal Solutions Architect](./job_descriptions/principal_solutions_architect.md)
 - [Platform Architect](./job_descriptions/platform_architect.md)
+- [Platform Engineer](./job_descriptions/platform_engineer.md)
 - [Subject Matter Expert (SME)](./job_descriptions/subject_matter_expert.md)
 - [Scrum Master](./job_descriptions/scrum_master.md)
 
