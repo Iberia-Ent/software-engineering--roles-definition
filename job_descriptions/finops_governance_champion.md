@@ -16,7 +16,7 @@ The FinOps & Governance Champion is responsible for driving financial accountabi
 - **Continuous Improvement:** Stay current with AWS pricing models, new services, and FinOps best practices. Contribute to the evolution of governance frameworks and automation. Benchmark cloud spending against industry standards and FinOps Foundation maturity models.
 - **Tooling & Automation:** Implement and manage FinOps tooling (AWS Cost Explorer, AWS Budgets, CUDOS, CID dashboards). Automate cost anomaly detection and alerting. Leverage AI-based tools to process cost and usage data, and generate dashboards and insights through natural language interfaces.
 - **KPIs & Business Alignment:** Define, track, and report on cloud financial KPIs aligned with organizational goals. Provide actionable metrics to business roles and leadership to support data-driven decision-making. Deliver executive-level reporting and presentations to management and senior leadership on cloud cost performance, governance posture, and optimization roadmap.
-- **Vendor Management:** Manage the relationship with cloud service providers and third-party vendors, including the issuance of purchase orders, and the review and validation of invoices to ensure accuracy and alignment with contracted terms and budgets.
+- **Vendor Management:** Manage the relationship with cloud service providers and third-party vendors, including the issuance of purchase orders and the review and validation of invoices to ensure accuracy and alignment with contracted terms and budgets.
 
 ## What we expect from you
 
@@ -34,7 +34,7 @@ The FinOps & Governance Champion is responsible for driving financial accountabi
 - **Soft Skills:**
     - Strong analytical skills with the ability to translate financial data into actionable insights
     - Excellent communication skills to engage both technical and non-technical stakeholders, including management and senior leadership
-    - Ability to produce executive-level reporting and present cloud financial insights to business and directional areas
+    - Ability to produce executive-level reporting and present cloud financial insights to business and functional areas
     - Proactive mindset with a focus on driving cultural change towards financial accountability
     - Collaborative approach with the ability to influence without direct authority
 
