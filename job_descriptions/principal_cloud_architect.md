@@ -24,8 +24,8 @@ As a Principal Cloud Architect, your role is pivotal in shaping the organization
 
 ## What we expect from you
 
-- Define and communicate the cloud architectural vision, strategy, and roadmap for the organization.
-- Lead the development and implementation of cloud architectural standards, guidelines, and best practices.
+- Define and communicate the technical cloud architectural principles, standards and patterns for the organization.
+- Lead the definition of cloud architectural standards, guidelines, and best practices.
 - Provide guidance and direction to Cloud Architects to ensure consistency and alignment with organizational goals.
 - Collaborate with senior stakeholders to prioritize cloud architectural initiatives and investments.
 - Monitor and assess the impact of cloud architectural decisions on the organization's overall performance and success.
