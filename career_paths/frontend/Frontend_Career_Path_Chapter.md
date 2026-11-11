@@ -4,6 +4,21 @@
 
 **Coexisting tracks:** A (SPA Legacy) + B (Astro + AEM)
 
+## Contents
+
+1. [Purpose](#purpose)
+2. [Audience](#audience)
+3. [Overview](#overview)
+4. [Technical tracks](#technical-tracks-v2)
+5. [Track transition: A to B](#track-transition-a-to-b)
+6. [Promotion criteria](#promotion-criteria)
+7. [L1: Junior](#l1-junior)
+8. [L2: Jr Advanced](#l2-jr-advanced)
+9. [L3: Semi-Senior](#l3-semi-senior)
+10. [L4: SSR Advanced](#l4-ssr-advanced)
+11. [L5: Senior](#l5-senior)
+12. [Glossary](#glossary)
+
 ## Purpose
 
 This document provides the professional growth framework for Frontend Developers in Globant
@@ -17,74 +32,53 @@ Managers, and Developers, and provides clear, objective criteria for promotion d
 
 The primary readers are product-team stakeholders: Product Owner, Product Manager, Delivery Lead,
 and Technical Lead. Coach, Mentor, and Frontend Developer use this chapter to validate the
-technical evidence behind delivery observations.
-
-The criteria below are an English translation of the supplied chapter. The separate level pages
-explain their product context.
+technical evidence behind delivery observations. The criteria below are an English translation of
+the supplied chapter; the separate level pages explain their product context.
 
 ## Overview
 
 Read technical and behavioural expectations together. For example, an accessible interface or a
-reliable pipeline matters because it supports usable, maintainable product delivery.
-Stakeholders should discuss those outcomes and the support needed, while technical reviewers
-determine whether the implementation demonstrates the specified skill.
+reliable pipeline matters because it supports usable, maintainable product delivery. Stakeholders
+should discuss those outcomes and the support needed, while technical reviewers determine
+whether the implementation demonstrates the specified skill.
 
-The two tracks describe different technology contexts, not competing career ladders. Confirm
-the assigned track and the relevant project opportunities before judging gaps.
+The two tracks describe different technology contexts, not competing career ladders. Confirm the
+assigned track and the relevant project opportunities before judging gaps. The transition rules
+below are source requirements; the explanatory prose does not create additional promotion rules.
 
-The transition rules below are source requirements. The explanatory prose does not create
-additional promotion rules.
+## Technical tracks (v2)
 
-## Contents
+The v2 career path defines two tracks that coexist in client projects:
 
-- [Technical tracks](#technical-tracks)
-- [Track transition: A to B](#track-transition-a-to-b)
-- [Promotion criteria](#promotion-criteria)
-- [L1: Junior](#l1-junior)
-- [L2: Jr Advanced](#l2-jr-advanced)
-- [L3: Semi-Senior](#l3-semi-senior)
-- [L4: SSR Advanced](#l4-ssr-advanced)
-- [L5: Senior](#l5-senior)
-- [Glossary](#glossary)
-
-## Technical tracks
-
-The v2 career path defines two tracks that coexist in client projects.
-
-| Dimension | Track A — SPA Legacy | Track B — Astro + AEM Headless |
+| Area | Track A — SPA Legacy | Track B — Astro + AEM Headless |
 | --- | --- | --- |
 | Projects | BKI, MMB, CKI, Ancillanes | Iberia Digital Platform, marketing sites |
 | Rendering | CSR | SSR |
-| Backend | REST APIs | RAC proxy |
-| CMS | WCS/Drupal | AEM Content Fragments |
-| Stack | React/Angular/AngularJS | Astro + AEM Headless |
-| Editor | Not specified | Universal Editor |
+| Backend | REST APIs | RAC (proxy) |
+| CMS | WCS/Drupal | AEM CF |
+| Stack | React/Angular/AngularJS | — |
+| Editor | — | Universal Editor |
 
 ## Track transition: A to B
 
-**Migration:** A Track A Developer starting an Astro + AEM project moves to
-**L2.5 (intermediate)** for 6–12 months.
+**Migration.** A Track A Developer starting an Astro + AEM project moves to **L2.5
+(intermediate)** for 6–12 months.
 
-The Developer advances to **Track B Full** when maintaining **80%+ of Track A criteria**
-and demonstrating **60%+ of Track B criteria**.
-
-The Track A requirement preserves strong React/Angular capability. The Track B requirement
-validates the new technical context rather than assuming that existing framework expertise
-automatically transfers.
+The Developer advances to **Track B Full** when maintaining **80%+ of Track A criteria** (strong
+React/Angular skills) **and** demonstrating **60%+ of Track B criteria** (ramping up in Astro).
 
 > [!IMPORTANT]
 > Soft skills carry over, including communication and problem-solving.
-> They do not accelerate technical progression. Track B hard skills must be
-> validated independently.
+> They do not accelerate progression: Track B hard skills must be validated independently.
 
 ## Promotion criteria
 
 ### General criteria
 
-- **80% Hard Skills:** Demonstrated in daily work, 80%+ of the time.
-- **100% Soft Skills:** Demonstrated or In progress, with zero Not observed.
-- **Evaluation:** Coach for technical evidence, Technical Lead for behaviour,
-  Mentor for career development, and Architect for L4+.
+- **80% Hard Skills:** Demonstrated in daily work (80%+ of the time).
+- **100% Soft Skills:** Demonstrated or In progress, with zero "Not observed".
+- **Evaluation:** Coach (technical), Technical Lead (behaviour), Mentor (career), and Architect
+  for L4+.
 
 ### Quick ready-for-promotion checklist
 
@@ -95,18 +89,16 @@ automatically transfers.
 | L3 → L4 | Security expertise; performance optimisation; active mentoring; visible leadership |
 | L4 → L5 | Technical vision; mastery in 2+ areas; mentoring 2+ seniors; business acumen; organisational influence; CTO approval |
 
-> [!WARNING]
-> The L5 source gate remains pending final calibration with Technical Leads
-> and the client. The checklist above must not be interpreted as a final
-> approval mechanism while that calibration is unresolved.
+The checklist is a navigation aid, not a substitute for the detailed criteria. The final L5
+promotion gate is explicitly pending calibration. In particular, the checklist's mentoring
+reference and the detailed L5 criterion below are not identical; reviewers must resolve that
+difference during calibration rather than silently treating either as a new approved gate.
 
 ## L1: Junior
 
-[Read the L1 product-team interpretation](./l1-junior.md)
-
 <a id="criteria-l1-common-technical-criteria-both-tracks"></a>
 
-### Common technical criteria — both tracks
+### Common technical criteria (both tracks)
 
 - **HTML/CSS ES6+:** semantic HTML, Flexbox/Grid, responsive design, media queries. <a id="item-l1-common-technical-criteria-both-tracks-htmlcss-es6"></a>
 - **JavaScript ES6+:** types, functions, modules, async/await, fetch + REST APIs. <a id="item-l1-common-technical-criteria-both-tracks-javascript-es6"></a>
@@ -114,24 +106,24 @@ automatically transfers.
 - **Git:** clone/add/commit/push, Conventional Commits, basic Gitflow. <a id="item-l1-common-technical-criteria-both-tracks-git"></a>
 - **jest/vitest:** basic unit tests with simple mocks. <a id="item-l1-common-technical-criteria-both-tracks-jestvitest"></a>
 - **Tooling:** `.env`, `tsconfig`, `vite.config`, `.eslintrc`, `localStorage`, CORS. <a id="item-l1-common-technical-criteria-both-tracks-tooling"></a>
-- **Accessibility:** semantic HTML, screen readers, basic awareness. <a id="item-l1-common-technical-criteria-both-tracks-a11y"></a>
-- **Cloud:** cloud computing fundamentals and conceptual knowledge of AWS services: EC2, S3, IAM, Lambda. <a id="item-l1-common-technical-criteria-both-tracks-cloud"></a>
+- **A11y:** semantic HTML, screen readers, basic awareness. <a id="item-l1-common-technical-criteria-both-tracks-a11y"></a>
+- **Cloud:** cloud computing fundamentals and conceptual knowledge of AWS services (EC2, S3, IAM, Lambda). <a id="item-l1-common-technical-criteria-both-tracks-cloud"></a>
 
 ### Track-specific criteria
 
 <a id="criteria-l1-track-a-spa-legacy"></a>
 
-#### Track A — SPA Legacy
+#### Track A (SPA Legacy)
 
 - **React:** functional components, JSX/TSX, props vs state, `useState`, `useEffect`, React Router. <a id="item-l1-track-a-spa-legacy-react"></a>
 - **Angular:** CLI, property/event/two-way binding, HttpClient, template-driven forms, basic Observables. <a id="item-l1-track-a-spa-legacy-angular"></a>
 
 <a id="criteria-l1-track-b-astro-aem"></a>
 
-#### Track B — Astro + AEM
+#### Track B (Astro + AEM)
 
 - Vanilla HTML/CSS without a framework. <a id="item-l1-track-b-astro-aem-vanilla-htmlcss-without-a-framework"></a>
-- TypeScript for framework-free frontend. <a id="item-l1-track-b-astro-aem-typescript-framework-free-frontend"></a>
+- TypeScript (framework-free frontend). <a id="item-l1-track-b-astro-aem-typescript-framework-free-frontend"></a>
 - **Astro:** Page, Section, Partial. <a id="item-l1-track-b-astro-aem-astro"></a>
 - Basic `@layer` CSS system. <a id="item-l1-track-b-astro-aem-basic-layer-css-system"></a>
 - `fetch()` via RAC. <a id="item-l1-track-b-astro-aem-fetch-via-rac"></a>
@@ -150,46 +142,42 @@ automatically transfers.
 
 <a id="criteria-l1-promotion-gate"></a>
 
-### Promotion gate
-
-**80% Hard Skills · 100% Soft Skills**, interpreted through the general criteria.
+**Promotion gate:** 80% Hard Skills · 100% Soft Skills.
 
 ## L2: Jr Advanced
 
-[Read the L2 product-team interpretation](./l2-jr-advanced.md)
-
 <a id="criteria-l2-common-technical-criteria-both-tracks"></a>
 
-### Common technical criteria — both tracks
+### Common technical criteria (both tracks)
 
 - **Advanced CSS:** appropriate use of Sass or Tailwind, atomic design, basic SEO. <a id="item-l2-common-technical-criteria-both-tracks-advanced-css"></a>
-- **Event Loop:** debugging in DevTools: breakpoints, call stack, watchers. <a id="item-l2-common-technical-criteria-both-tracks-event-loop"></a>
+- **Event Loop:** debugging in DevTools (breakpoints, call stack, watchers). <a id="item-l2-common-technical-criteria-both-tracks-event-loop"></a>
 - **JavaScript:** rest/spread, destructuring, robust error handling. <a id="item-l2-common-technical-criteria-both-tracks-javascript"></a>
 - **Basic Node.js:** scripts using `fs`/`dotenv`, project npm scripts. <a id="item-l2-common-technical-criteria-both-tracks-basic-nodejs"></a>
 - **Cypress:** basic E2E tests, conceptual understanding of TDD. <a id="item-l2-common-technical-criteria-both-tracks-cypress"></a>
 - **Advanced Git:** conflict resolution, constructive code reviews, strategic branching. <a id="item-l2-common-technical-criteria-both-tracks-advanced-git"></a>
 - **Basic CI/CD:** reading and debugging GitHub Actions failures. <a id="item-l2-common-technical-criteria-both-tracks-basic-cicd"></a>
-- **Accessibility:** basic ARIA attributes, WCAG AA contrast, keyboard navigation, axe DevTools. <a id="item-l2-common-technical-criteria-both-tracks-a11y"></a>
+- **A11y:** basic ARIA attributes, WCAG AA contrast, keyboard navigation, axe DevTools. <a id="item-l2-common-technical-criteria-both-tracks-a11y"></a>
 
 ### Track-specific criteria
 
 <a id="criteria-l2-track-a-spa-legacy"></a>
 
-#### Track A — SPA Legacy
+#### Track A (SPA Legacy)
 
 - **React:** HOC, custom hooks, `useCallback`, `useContext`, `useReducer`, React Testing Library, problematic re-renders. <a id="item-l2-track-a-spa-legacy-react"></a>
-- **Angular:** lazy-loaded modules, dependency injection, reactive forms, RxJS: `map`, `filter`, `switchMap`, `takeUntil`; TestBed. <a id="item-l2-track-a-spa-legacy-angular"></a>
+- **Angular:** lazy-loaded modules, dependency injection, reactive forms, RxJS (`map`, `filter`, `switchMap`, `takeUntil`), TestBed. <a id="item-l2-track-a-spa-legacy-angular"></a>
 
 <a id="criteria-l2-track-b-astro-aem"></a>
 
-#### Track B — Astro + AEM
+#### Track B (Astro + AEM)
 
 - **TypeScript:** unions, generics. <a id="item-l2-track-b-astro-aem-typescript"></a>
-- Five-state management for Sections. <a id="item-l2-track-b-astro-aem-5-states-management-section"></a>
-- Custom hooks in React / Partials using the `_prefix` convention. <a id="item-l2-track-b-astro-aem-custom-hooks-reactpartials-prefix-convention"></a>
-- AEM Content Fragment models and hydration. <a id="item-l2-track-b-astro-aem-aem-cf-models-hydration"></a>
-- **Universal Editor:** `rendererJs`, `component-def`. <a id="item-l2-track-b-astro-aem-ue"></a>
-- Design tokens vs hardcoded values. <a id="item-l2-track-b-astro-aem-design-tokens-vs-hardcode"></a>
+- 5 states management (Section). <a id="item-l2-track-b-astro-aem-5-states-management-section"></a>
+- Custom hooks (React)/Partials (`_prefix` convention). <a id="item-l2-track-b-astro-aem-custom-hooks-reactpartials-prefix-convention"></a>
+- AEM CF models, hydration. <a id="item-l2-track-b-astro-aem-aem-cf-models-hydration"></a>
+- **UE:** `rendererJs`, `component-def`. <a id="item-l2-track-b-astro-aem-ue"></a>
+- Design tokens vs hardcode. <a id="item-l2-track-b-astro-aem-design-tokens-vs-hardcode"></a>
 - DOM budget awareness. <a id="item-l2-track-b-astro-aem-dom-budget-awareness"></a>
 
 <a id="criteria-l2-soft-skills"></a>
@@ -206,47 +194,43 @@ automatically transfers.
 
 <a id="criteria-l2-promotion-gate"></a>
 
-### Promotion gate
-
-**80% Hard Skills · 100% Soft Skills**, interpreted through the general criteria.
+**Promotion gate:** 80% Hard Skills · 100% Soft Skills.
 
 ## L3: Semi-Senior
 
-[Read the L3 product-team interpretation](./l3-semi-senior.md)
-
 <a id="criteria-l3-common-technical-criteria-both-tracks"></a>
 
-### Common technical criteria — both tracks
+### Common technical criteria (both tracks)
 
 - **Advanced JavaScript:** `this`, `call`/`apply`/`bind`, IIFE, prototypal inheritance, closures, event loop/call stack. <a id="item-l3-common-technical-criteria-both-tracks-advanced-javascript"></a>
 - **Advanced TypeScript:** abstract classes, union/intersection types, `keyof`, type aliases, `unknown`. <a id="item-l3-common-technical-criteria-both-tracks-advanced-typescript"></a>
-- **SOLID principles:** encapsulation, abstraction, three or more design patterns, including singleton, observer, and strategy. <a id="item-l3-common-technical-criteria-both-tracks-solid-principles"></a>
+- **SOLID principles:** encapsulation, abstraction, 3+ design patterns (singleton, observer, strategy). <a id="item-l3-common-technical-criteria-both-tracks-solid-principles"></a>
 - **GraphQL:** API design and consumption. <a id="item-l3-common-technical-criteria-both-tracks-graphql"></a>
-- **Basic NestJS/Express:** server, database connections using MongoDB/PostgreSQL, JWT authentication. <a id="item-l3-common-technical-criteria-both-tracks-basic-nestjsexpress"></a>
-- **Intermediate CI/CD:** ESLint/Prettier/SonarQube, continuous delivery to staging, automated tests. <a id="item-l3-common-technical-criteria-both-tracks-intermediate-cicd"></a>
+- **Basic NestJS/Express:** server, database connections (MongoDB/PostgreSQL), JWT authentication. <a id="item-l3-common-technical-criteria-both-tracks-basic-nestjsexpress"></a>
+- **Intermediate CI/CD:** ESLint/Prettier/SonarQube, CD to staging, automated tests. <a id="item-l3-common-technical-criteria-both-tracks-intermediate-cicd"></a>
 - **OpenAPI/Swagger:** navigable technical documentation. <a id="item-l3-common-technical-criteria-both-tracks-openapiswagger"></a>
-- **Accessibility:** axe audits, WCAG 2.1 level A, focus management in modals/forms. <a id="item-l3-common-technical-criteria-both-tracks-a11y"></a>
+- **A11y:** axe audits, WCAG 2.1 level A, focus management in modals/forms. <a id="item-l3-common-technical-criteria-both-tracks-a11y"></a>
 
 ### Track-specific criteria
 
 <a id="criteria-l3-track-a-spa-legacy"></a>
 
-#### Track A — SPA Legacy
+#### Track A (SPA Legacy)
 
 - **React:** Redux/Zustand, Suspense, Error Boundaries, React Query, appropriate use of `useMemo`/`useCallback`, Storybook. <a id="item-l3-track-a-spa-legacy-react"></a>
-- **Angular:** advanced routing with outlets, guards, and lazy loading; custom pipes/directives; OnPush change detection; NgRx/NGXS; i18n; legacy application assessment. <a id="item-l3-track-a-spa-legacy-angular"></a>
+- **Angular:** advanced routing (outlets, guards, lazy loading), custom pipes/directives, OnPush change detection, NgRx/NGXS, i18n, legacy app assessment. <a id="item-l3-track-a-spa-legacy-angular"></a>
 
 <a id="criteria-l3-track-b-astro-aem"></a>
 
-#### Track B — Astro + AEM
+#### Track B (Astro + AEM)
 
-- **Astro:** streaming, Core Web Vitals optimisation. <a id="item-l3-track-b-astro-aem-astro"></a>
-- **AEM:** nested Content Fragments and references. <a id="item-l3-track-b-astro-aem-aem"></a>
-- **Universal Editor:** complex editors. <a id="item-l3-track-b-astro-aem-ue"></a>
-- **CSS:** layer strategy, L0–L3. <a id="item-l3-track-b-astro-aem-css"></a>
-- Performance tuning using Real User Monitoring. <a id="item-l3-track-b-astro-aem-performance-tuning-rum"></a>
-- **Testing:** parameterisation. <a id="item-l3-track-b-astro-aem-testing"></a>
-- **Accessibility:** audits and keyboard navigation. <a id="item-l3-track-b-astro-aem-a11y"></a>
+- **Astro:** streaming, CWV opt. <a id="item-l3-track-b-astro-aem-astro"></a>
+- **AEM:** nested CFs, refs. <a id="item-l3-track-b-astro-aem-aem"></a>
+- **UE:** complex editors. <a id="item-l3-track-b-astro-aem-ue"></a>
+- **CSS:** layer strategy (L0–L3). <a id="item-l3-track-b-astro-aem-css"></a>
+- Performance tuning (RUM). <a id="item-l3-track-b-astro-aem-performance-tuning-rum"></a>
+- **Testing:** parametrize. <a id="item-l3-track-b-astro-aem-testing"></a>
+- **A11y:** audits, keyboard nav. <a id="item-l3-track-b-astro-aem-a11y"></a>
 
 <a id="criteria-l3-soft-skills"></a>
 
@@ -262,44 +246,40 @@ automatically transfers.
 
 <a id="criteria-l3-promotion-gate"></a>
 
-### Promotion gate
-
-**80% Hard Skills · 100% Soft Skills**, interpreted through the general criteria.
+**Promotion gate:** 80% Hard Skills · 100% Soft Skills.
 
 ## L4: SSR Advanced
 
-[Read the L4 product-team interpretation](./l4-ssr-advanced.md)
-
 <a id="criteria-l4-common-technical-criteria-both-tracks"></a>
 
-### Common technical criteria — both tracks
+### Common technical criteria (both tracks)
 
-- **Expert TypeScript:** production generics, utility types, basic conditional types, modules and libraries with clean public APIs. <a id="item-l4-common-technical-criteria-both-tracks-expert-typescript"></a>
+- **Expert TypeScript:** production generics (utility types, basic conditional types), modules and libraries with clean public APIs. <a id="item-l4-common-technical-criteria-both-tracks-expert-typescript"></a>
 - **Event loop, closures and memory management:** explanation and practical debugging. <a id="item-l4-common-technical-criteria-both-tracks-event-loop-closures-and-memory-management"></a>
 - **OAuth 2.0 / OIDC:** implementation in a production application. <a id="item-l4-common-technical-criteria-both-tracks-oauth-20-oidc"></a>
 - **Web security:** XSS, CSRF, CORS misconfiguration, TLS certificates in deployment. <a id="item-l4-common-technical-criteria-both-tracks-web-security"></a>
 - **AWS:** EC2, S3, SNS, IAM; least-privilege roles and policies. <a id="item-l4-common-technical-criteria-both-tracks-aws"></a>
 - **Advanced CI/CD:** pipelines with lint → test → build → deploy stages, feature flags, coverage gates. <a id="item-l4-common-technical-criteria-both-tracks-advanced-cicd"></a>
-- **Package publishing:** Nexus or private npm, semantic versioning, reproducible documentation. <a id="item-l4-common-technical-criteria-both-tracks-package-publishing"></a>
-- **Accessibility:** Lighthouse and axe, systematic WCAG 2.1 AA, accessibility-first design, mentoring Juniors. <a id="item-l4-common-technical-criteria-both-tracks-a11y"></a>
+- **Package publishing:** Nexus or private npm, semver, reproducible documentation. <a id="item-l4-common-technical-criteria-both-tracks-package-publishing"></a>
+- **A11y:** Lighthouse + axe, systematic WCAG 2.1 AA, accessibility-first design, mentoring Juniors. <a id="item-l4-common-technical-criteria-both-tracks-a11y"></a>
 
 ### Track-specific criteria
 
 <a id="criteria-l4-track-a-spa-legacy"></a>
 
-#### Track A — SPA Legacy
+#### Track A (SPA Legacy)
 
-- **React:** `useRef`, portals with focus management and modals, React Profiler and Chrome Performance tab, component architecture for medium-to-large features. <a id="item-l4-track-a-spa-legacy-react"></a>
+- **React:** `useRef`, portals (focus management, modals), React Profiler + Chrome Perf tab, component architecture for medium-to-large features. <a id="item-l4-track-a-spa-legacy-react"></a>
 - **Angular:** reusable Angular libraries, advanced lazy loading, bundle optimisation, Angular Signals vs Zone.js. <a id="item-l4-track-a-spa-legacy-angular"></a>
 
 <a id="criteria-l4-track-b-astro-aem"></a>
 
-#### Track B — Astro + AEM
+#### Track B (Astro + AEM)
 
 - **Astro:** scalable architecture. <a id="item-l4-track-b-astro-aem-astro"></a>
 - **AEM:** complex models. <a id="item-l4-track-b-astro-aem-aem"></a>
-- **CSS:** evolution of design tokens. <a id="item-l4-track-b-astro-aem-css"></a>
-- **Security:** Content Security Policy and RAC audit. <a id="item-l4-track-b-astro-aem-security"></a>
+- **CSS:** tokens evolution. <a id="item-l4-track-b-astro-aem-css"></a>
+- **Security:** CSP, RAC audit. <a id="item-l4-track-b-astro-aem-security"></a>
 - **DevOps:** blue-green deployments. <a id="item-l4-track-b-astro-aem-devops"></a>
 - Visible technical leadership. <a id="item-l4-track-b-astro-aem-visible-technical-leadership"></a>
 
@@ -316,44 +296,40 @@ automatically transfers.
 
 <a id="criteria-l4-promotion-gate"></a>
 
-### Promotion gate
-
-**80% Hard Skills · 100% Soft Skills**, interpreted through the general criteria.
+**Promotion gate:** 80% Hard Skills · 100% Soft Skills.
 
 ## L5: Senior
 
-[Read the L5 product-team interpretation](./l5-senior.md)
-
 <a id="criteria-l5-common-technical-criteria-both-tracks"></a>
 
-### Common technical criteria — both tracks
+### Common technical criteria (both tracks)
 
-- **JavaScript/TypeScript:** iterators, generators, practical V8 optimisation, library APIs designed for the team's developer experience. <a id="item-l5-common-technical-criteria-both-tracks-javascripttypescript"></a>
+- **JavaScript/TypeScript:** iterators, generators, practical V8 optimisation, library APIs designed for the team's DX. <a id="item-l5-common-technical-criteria-both-tracks-javascripttypescript"></a>
 - **Design Systems at scale:** compound components, cross-platform tokens, design system governance. <a id="item-l5-common-technical-criteria-both-tracks-design-systems-at-scale"></a>
 - **Security leadership:** threat modelling, OWASP Top 10 in code reviews, TLS certificate management. <a id="item-l5-common-technical-criteria-both-tracks-security-leadership"></a>
-- **Advanced Scrum:** critical judgement, facilitating ceremonies, identifying systemic technical debt with remediation plans and return-on-investment considerations. <a id="item-l5-common-technical-criteria-both-tracks-advanced-scrum"></a>
-- **Accessibility:** defining and defending project standards, cross-cutting WCAG 2.1 AA, understanding AAA and when to pursue it. <a id="item-l5-common-technical-criteria-both-tracks-a11y"></a>
-- **Active mentoring:** a growth plan for at least one Developer, active follow-up, structured knowledge transfer. <a id="item-l5-common-technical-criteria-both-tracks-active-mentoring"></a>
+- **Advanced Scrum:** critical judgement, facilitating ceremonies, identifying systemic technical debt with remediation plans (ROI). <a id="item-l5-common-technical-criteria-both-tracks-advanced-scrum"></a>
+- **A11y:** defining and defending project standards, cross-cutting WCAG 2.1 AA, understanding AAA and when to pursue it. <a id="item-l5-common-technical-criteria-both-tracks-a11y"></a>
+- **Active mentoring:** a growth plan for at least 1 Developer, active follow-up, structured knowledge transfer. <a id="item-l5-common-technical-criteria-both-tracks-active-mentoring"></a>
 
 ### Track-specific criteria
 
 <a id="criteria-l5-track-a-spa-legacy"></a>
 
-#### Track A — SPA Legacy
+#### Track A (SPA Legacy)
 
 - **React:** Profiler for re-renders, scalable design systems, appropriate use of React Server Components. <a id="item-l5-track-a-spa-legacy-react"></a>
-- **Angular:** SSR with Angular Universal, AngularJS → Angular migration, module architecture for large teams; legacy AngularJS knowledge including `$scope`, digest cycle, and directives. <a id="item-l5-track-a-spa-legacy-angular"></a>
+- **Angular:** SSR with Angular Universal, AngularJS → Angular migration, module architecture for large teams; legacy AngularJS knowledge (`$scope`, digest cycle, directives). <a id="item-l5-track-a-spa-legacy-angular"></a>
 
 <a id="criteria-l5-track-b-astro-aem"></a>
 
-#### Track B — Astro + AEM
+#### Track B (Astro + AEM)
 
 - AEM at scale. <a id="item-l5-track-b-astro-aem-aem-at-scale"></a>
 - Content strategy leadership. <a id="item-l5-track-b-astro-aem-content-strategy-leadership"></a>
 - Security leadership. <a id="item-l5-track-b-astro-aem-security-leadership"></a>
-- Performance expertise using Real User Monitoring. <a id="item-l5-track-b-astro-aem-performance-expert-rum"></a>
+- Performance expert (RUM). <a id="item-l5-track-b-astro-aem-performance-expert-rum"></a>
 - Vision setting. <a id="item-l5-track-b-astro-aem-vision-setting"></a>
-- Organisational influence. <a id="item-l5-track-b-astro-aem-org-influence"></a>
+- Org influence. <a id="item-l5-track-b-astro-aem-org-influence"></a>
 
 <a id="criteria-l5-soft-skills"></a>
 
@@ -369,38 +345,36 @@ automatically transfers.
 
 <a id="criteria-l5-promotion-gate"></a>
 
-### Promotion gate
-
 > [!WARNING]
-> **Work in Progress**
+> **Promotion gate: Work in Progress.**
 > Pending final calibration with Technical Leads and the client.
-
-The quick checklist and the detailed criteria support discussion, but they must not be used
-to invent a final approval mechanism while this calibration remains unresolved.
 
 ## Glossary
 
 | Term | Definition |
 | --- | --- |
-| Track A | React/Angular SPA, REST APIs, client-side rendering |
-| Track B | Astro + AEM Headless, Content Fragments, RAC |
-| AEM CF | Adobe Experience Manager Content Fragment: a structured content model |
-| RAC | Resource Access Content, described in the source as an API proxy/authentication layer |
-| UE | Universal Editor for in-context authoring |
-| AuWrapper | Astro component that injects `data-aue-*` attributes for Universal Editor |
-| DOM Budget | Maximum DOM nodes stated in the source: L2 200; L3 150; L3 Partial 50 |
-| `@layer` | CSS layering for reset, bootstrap, overrides, and project styles |
+| Track A | React/Angular SPA, REST APIs, CSR; BKI, MMB, CKI, Ancillanes projects |
+| Track B | Astro + AEM Headless, Content Fragments (AEM data model), RAC |
+| RAC | Resource Access Content; API proxy/auth, as named in the supplied source |
+| UE | Universal Editor; in-context authoring |
+| AuWrapper | Astro component that injects `data-aue-*` for Universal Editor |
+| DOM Budget | Maximum DOM nodes stated by the source: L2: 200; L3: 150; L3 Partial: 50 |
+| `@layer` | CSS layering: reset, bootstrap, overrides, project |
 | Demonstrated | Consistent in daily work, 80%+ of the time |
 | In progress | Actively developing the skill |
 | Not observed | No evidence of the skill |
-| Soft Skills | Behavioural capabilities such as communication, ownership, and leadership |
+| Soft Skills | Behavioural capabilities, including communication, ownership, and leadership |
 | Hard Skills | Technical capabilities involving frameworks, tools, and patterns |
-| SSR | Server-side rendering in rendering discussions; advanced Semi-Senior in level names |
+| SSR | Server-side rendering in rendering discussions; advanced Semi-Senior in level labels |
 | CSR | Client-side rendering |
+| CF | Content Fragment |
 | CWV | Core Web Vitals |
 | RUM | Real User Monitoring |
-| DX | Developer experience |
+| DX | Developer Experience |
+| DI | Dependency Injection |
+| HOC | Higher-Order Component |
+| OIDC | OpenID Connect |
+| CSP | Content Security Policy |
 | L1–L5 | Career levels from Junior to Senior |
 
-[Return to the Frontend overview](./README.md) ·
-[Return to the Academy index](../README.md)
+[Return to the Frontend overview](./README.md) · [Academy index](../README.md)
