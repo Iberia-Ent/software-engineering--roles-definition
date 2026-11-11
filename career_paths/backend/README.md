@@ -1,53 +1,74 @@
-# Backend Developer · Academy Iberia
+# Backend Developer · Java · Academy Iberia
 
 ## Purpose
 
-Explain Backend Java expectations in product-delivery terms and provide a navigable reference
-for each seniority level, including the criteria transcribed from the supplied presentation.
+Provide product-team stakeholders with an entry point to the Academy Backend Java career path.
+This page explains how to navigate the available material and distinguishes the source criteria
+from the individual level pages that may be developed later.
 
 ## Audience
 
-Product Owner, Product Manager, Delivery Lead, and Technical Lead working with Academy Backend
-Developers. Coach, Mentor, and Backend Developer use the linked criteria for technical
-validation.
+The primary audience is the Product Owner, Product Manager, Delivery Lead, and Technical Lead
+working with Academy Backend Developers. Backend Developers, Coaches, Mentors, and technical
+reviewers use the source material to validate technical evidence and agree development
+priorities.
 
 ## Overview
 
-Backend contribution includes reliable business behaviour, safe data changes, well-defined APIs,
-and services that the team can operate and evolve. Seniority grows from implementing bounded
-tasks with guidance to owning delivery decisions and, eventually, aligning standards across
-teams and suppliers. The source emphasises demonstrated impact rather than tenure.
+Backend contribution supports reliable business behaviour, safe data changes, well-defined APIs,
+and services that product teams can operate and evolve. The supplied career-path presentation
+describes progression across five levels and seven technical and behavioural areas.
 
-The supplied PDF contains the actual criteria, not just a visual summary. Its technical areas,
-promotion gates, and cross-cutting expectations are now available in an English Markdown
-chapter, with a page for each level and references back to the presentation.
+This Markdown section provides a searchable English companion to the presentation. It captures
+the criteria and cross-cutting expectations in the source while preserving the original PDF as
+the reference attachment.
+
+Individual pages with additional product-team context for each seniority level are not included
+yet. Until those pages are prepared and reviewed, use the presentation and its Markdown companion
+as the source material; do not treat this overview as a replacement for formal assessment
+guidance.
 
 ## How stakeholders should use this path
 
-Discuss delivery predictability, business-risk communication, and ownership with the Developer's
-Technical Lead. Technical reviewers should validate Java/Spring proficiency, API and data
-design, testing, security, and resilience. Product stakeholders should look for an explanation
-of how those decisions protect delivery and customer outcomes, rather than certify the
-technology.
+Discuss the Developer's contribution in the context of actual product work. Product stakeholders
+can provide observations about delivery predictability, communication, ownership, and how
+business risks were handled. The Technical Lead, Coach, and other relevant technical reviewers
+validate Java/Spring proficiency, API and data design, testing, security, and resilience.
 
-Cloud knowledge supports safe Backend delivery but does not transfer Cloud Engineer
+Cloud knowledge supports safe Backend delivery, but does not transfer Cloud Engineer
 implementation responsibilities to the Developer. The same boundary applies to security and
 observability: the source expects growing operational judgement and collaboration, not an
 unqualified claim that one person owns every specialist discipline.
 
+Experience ranges in the source are reference points, not automatic promotion dates. Promotion
+discussions should consider demonstrated impact, scope, autonomy, and the opportunities the
+Developer had to demonstrate the criteria.
+
 ## Source material
 
-- [Backend Java Career Path (PDF)](./Backend_Java_Career_Path_-_Globant.pdf)
-- [English criteria transcribed from the presentation](./Backend_Java_Career_Path_Chapter.md)
+- [Backend Java Career Path presentation (PDF)](./Backend_Java_Career_Path_-_Globant.pdf)
+- [English Markdown companion to the presentation](./Backend_Java_Career_Path_Chapter.md)
 
-## Seniority pages
+The Markdown companion makes the criteria easier to search and link to. The original presentation
+remains the source artifact and should be consulted when a reviewer needs to verify the source
+context or wording.
 
-| Level | Detail |
-| --- | --- |
-| L1 · Junior | [Expectations and criteria](./l1-junior.md) |
-| L2 · Jr Advanced | [Expectations and criteria](./l2-jr-advanced.md) |
-| L3 · Semi-Senior | [Expectations and criteria](./l3-semi-senior.md) |
-| L4 · SSR Advanced | [Expectations and criteria](./l4-ssr-advanced.md) |
-| L5 · Senior | [Expectations and criteria](./l5-senior.md) |
+## Career levels in the source
+
+| Level | Source name | Experience reference |
+| --- | --- | --- |
+| L1 | Junior | 0–12 months |
+| L2 | Jr Advance | 12–24 months |
+| L3 | Semi-Senior | 24–42 months |
+| L4 | SSR Advance | 42–60 months |
+| L5 | Senior | 60+ months |
+
+These ranges are indicative, not eligibility dates or promotion guarantees.
+
+## Individual seniority pages
+
+Dedicated L1–L5 pages with further product-team interpretation are not part of this initial
+Backend section. When those pages are prepared, they should be linked here and should reference
+the exact criteria in the English source companion rather than introduce new promotion rules.
 
 [Return to the Academy index](../README.md)
