@@ -37,6 +37,17 @@ Explore well-defined career paths for each role, categorized into different leve
 
 You have a broad definition for the carrer paths in [Software engineering](swe_competency_matrix.md), and the specialization of each path.,
 
+### Academy career paths
+
+The [Academy Career Paths](./career-paths/README.md) section provides a
+dedicated development framework for Frontend Developers, Backend Java
+Developers, and QA Engineers participating in the Academy programme.
+
+It includes a profile overview, individual pages for levels L1–L5, and
+detailed source criteria. Product Owners, Product Managers, Delivery Leads,
+and Technical Leads can use these pages to understand expected contribution,
+support needs, and evidence of professional growth.
+
 ### Paths
 
 A career path might have things in common with another one, in which case we will extract these common competencies. Here you can find them.
