@@ -2,107 +2,83 @@
 
 ## Purpose
 
-This section gives product-team stakeholders a shared reference for discussing
-the growth, contribution, and support needs of Academy professionals. It
-connects role expectations with observable behaviour in product delivery,
-rather than treating seniority as a list of tools or a measure of time served.
-
-The framework supports development conversations, work allocation, and
-assessment discussions. It helps teams distinguish between completing an
-activity with guidance, delivering independently, and improving how others
-deliver.
+This section gives product-team stakeholders a shared reference for discussing the growth,
+contribution, and support needs of Academy professionals. It connects role expectations with
+observable behaviour in product delivery, rather than treating seniority as a list of tools or
+a measure of time served.
 
 ## Audience
 
-The primary audience is the Product Owner, Product Manager, Delivery Lead,
-and Technical Lead working with Academy participants.
-
-Coaches, mentors, developers, and QA Engineers use the same reference to
-validate technical evidence and agree development priorities. Product
-stakeholders contribute evidence of delivery impact and collaboration;
-technical reviewers validate specialist proficiency.
+The primary audience is the Product Owner, Product Manager, Delivery Lead, and Technical Lead
+working with Academy participants. Coaches, Mentors, Developers, and QA Engineers use the same
+reference to validate technical evidence and agree development priorities.
 
 ## Overview
 
-Start with the relevant profile overview, then select a seniority level.
-Each level page explains the expected scope of contribution, its relevance
-to a product team, and the detailed criteria that support assessment.
+Choose a profile to review its source material, then use the level pages where available to
+understand expectations and product-team context:
 
-The documentation has three layers:
+- **Frontend:** English summaries of the supplied visual career path and technical chapter,
+  plus individual L1–L5 pages.
+- **Backend Java:** the original presentation and its searchable English Markdown companion.
+  Individual level pages are not yet included; the current documents are the initial reference
+  while the level-specific material is being prepared.
+- **Quality Assurance (QA):** the competency matrix, complementary career-path chapter, and
+  individual L1–L5 pages.
 
-- **Academy index:** programme scope, navigation, and assessment principles.
-- **Profile overview:** role context, progression, and source references.
-- **Seniority page:** level-specific expectations, detailed criteria, and
-  guidance for discussing evidence.
+The prose on the individual level pages explains how source criteria relate to product-team
+work. Illustrative delivery situations and suggested evidence are guidance, not new promotion
+rules. The linked criteria and source material remain the basis for technical calibration.
 
-The source chapters retain the detailed reference material. Links from the
-level pages allow reviewers to inspect the specific basis for an expectation
-without searching through an entire document.
+## Recommended workflow
 
-The prose on each level page explains the criteria in a product-team
-context. Illustrative delivery situations and suggested evidence are
-guidance, not additional promotion requirements.
+Start with the person's current responsibilities and product context. Read the relevant profile
+and, where available, the corresponding seniority page with the Technical Lead and Coach. Review
+examples from actual delivery: completed work, review feedback, documented decisions, quality
+evidence, and communication of risks. Agree which expectations are demonstrated and where
+further support is needed.
 
-## How to use this framework
+Product stakeholders provide evidence of delivery impact and collaboration; they are not
+expected to certify proficiency in a framework or programming language. Technical validation
+belongs with the relevant technical reviewers. Discuss differences between those perspectives
+explicitly before drawing a promotion conclusion.
 
-Start with the person's current responsibilities and product context.
-Read the corresponding level page with the Technical Lead and coach, then
-review examples from actual delivery: completed work, review feedback,
-documented decisions, quality evidence, and communication of risks.
+## Evaluation principles
 
-Discuss both the outcome and the conditions under which it was achieved.
-A successful task completed with substantial guidance is different from
-independent delivery, but both can provide useful evidence of development.
+Levels describe increasing autonomy, judgement, and scope of impact. Familiarity with a tool
+alone does not establish a level, and experience ranges in the source materials are reference
+points, not automatic promotion dates. Compare like-for-like project opportunities and consider
+whether the person had a realistic chance to demonstrate the expected behaviour.
 
-Agree which expectations are demonstrated, which need further evidence,
-and where additional support or delivery opportunities are required.
-Development actions should address specific gaps rather than simply
-assign another course or tool.
+Frontend, Backend, and QA have different source criteria. Do not copy a percentage threshold or
+assessment rule from one profile into another. Pending calibration and differences between
+source versions are identified in the relevant profile material.
 
-Product stakeholders are not expected to certify proficiency in a
-programming language, framework, or testing technique. They should explain
-the observed delivery impact and collaborate with technical reviewers
-before drawing conclusions about readiness for progression.
+## Reading the level names
 
-## Assessment principles
+The sources use slightly different labels for the same numbered stages, such as "Jr Advance"
+and "Jr Advanced". The pages preserve those labels rather than imply an unapproved change to the
+career framework. In level names, "SSR Advanced" refers to the advanced Semi-Senior stage;
+in Frontend rendering discussions, "SSR" separately means server-side rendering.
 
-Levels describe increasing autonomy, judgement, and scope of impact.
-Familiarity with a tool alone does not establish a level, and experience
-ranges in source materials are reference points rather than automatic
-promotion dates.
+Technical references are provided so reviewers can inspect the basis for an expectation, not
+because product stakeholders need to master every tool. When an acronym or implementation detail
+is unclear, ask the relevant Technical Lead or QA reviewer to explain its effect on product risk,
+delivery, or maintainability.
 
-Compare like-for-like delivery opportunities. Consider whether the person
-had a realistic chance to demonstrate the expected behaviour and whether
-the available evidence reflects sustained practice or a single event.
+## Profiles
 
-Frontend, Backend, and QA have different source criteria. Do not copy a
-percentage threshold, promotion gate, or assessment rule from one profile
-into another. Source-version differences and pending calibration must be
-resolved with the relevant technical reviewers rather than combined into
-an invented rule.
+### [Frontend Developer](./frontend/README.md)
 
-This framework supports professional judgement; it does not replace the
-company's formal assessment and promotion processes.
+The Markdown materials include a searchable English account of the supplied visual summary, a
+detailed criteria chapter, and individual pages for each level. The original PNG is a separate
+reference attachment and is not included in this Markdown-only set.
 
-## Understanding level names
+- [Frontend profile overview](./frontend/README.md)
+- [English Markdown version of the visual career-path summary](./frontend/Frontend_Career_Path_Visual_Summary.md)
+- [Detailed criteria chapter](./frontend/Frontend_Career_Path_Chapter.md)
 
-The sources use slightly different labels for the same numbered stages,
-such as "Jr Advance" and "Jr Advanced". The pages preserve those labels
-rather than imply an unapproved change to the career framework.
-
-In level names, "SSR Advanced" refers to the advanced Semi-Senior stage.
-In Frontend rendering discussions, "SSR" separately means server-side
-rendering.
-
-## Frontend Developer
-
-Read the [Frontend profile overview](./frontend/README.md) for role context,
-track differences, and progression guidance.
-
-The [Frontend source chapter](./frontend/Frontend_Career_Path_Chapter.md)
-provides the detailed technical and behavioural criteria.
-
-| Level | Detailed page |
+| Level | Page |
 | --- | --- |
 | L1 · Junior | [Expectations and criteria](./frontend/l1-junior.md) |
 | L2 · Jr Advanced | [Expectations and criteria](./frontend/l2-jr-advanced.md) |
@@ -110,33 +86,31 @@ provides the detailed technical and behavioural criteria.
 | L4 · SSR Advanced | [Expectations and criteria](./frontend/l4-ssr-advanced.md) |
 | L5 · Senior | [Expectations and criteria](./frontend/l5-senior.md) |
 
-## Backend Developer — Java
+### [Backend Developer (Java)](./backend/README.md)
 
-Read the [Backend profile overview](./backend/README.md) for role context,
-delivery responsibilities, and progression guidance.
+The initial Backend section contains the original PDF and an English Markdown companion
+transcribing the career-path criteria and cross-cutting expectations. Dedicated L1–L5 pages are
+not yet included.
 
-The [Backend source chapter](./backend/Backend_Java_Career_Path_Chapter.md)
-makes the criteria from the supplied presentation searchable and directly
-addressable in Markdown.
+- [Backend profile overview](./backend/README.md)
+- [English criteria and context transcribed from the presentation](./backend/Backend_Java_Career_Path_Chapter.md)
+- [Original Backend Java career-path presentation (PDF)](./backend/Backend_Java_Career_Path_-_Globant.pdf)
 
-| Level | Detailed page |
-| --- | --- |
-| L1 · Junior | [Expectations and criteria](./backend/l1-junior.md) |
-| L2 · Jr Advanced | [Expectations and criteria](./backend/l2-jr-advanced.md) |
-| L3 · Semi-Senior | [Expectations and criteria](./backend/l3-semi-senior.md) |
-| L4 · SSR Advanced | [Expectations and criteria](./backend/l4-ssr-advanced.md) |
-| L5 · Senior | [Expectations and criteria](./backend/l5-senior.md) |
+The presentation describes five levels: L1 · Junior, L2 · Jr Advance, L3 · Semi-Senior,
+L4 · SSR Advance, and L5 · Senior. Use the Markdown companion's level sections and the PDF
+until individual seniority pages are prepared and reviewed.
 
-## Quality Assurance
+### [Quality Assurance (QA)](./qa/README.md)
 
-Read the [QA profile overview](./qa/README.md) for role context, quality
-ownership, and guidance on interpreting the source versions.
+The QA section includes the detailed competency matrix, a complementary chapter from May 2026,
+and individual pages for L1–L5. The source documents have different dates and some differences
+in supervision wording; the profile overview explains how to keep those versions distinct.
 
-The [QA competency matrix](./qa/qa-career-path.md) provides level-specific
-criteria. The [QA chapter](./qa/quality_assurance_career_path_chapter.md)
-provides the accompanying reference context.
+- [QA profile overview](./qa/README.md)
+- [Competency matrix and detailed criteria](./qa/qa-career-path.md)
+- [Career-path chapter and responsibilities](./qa/quality_assurance_career_path_chapter.md)
 
-| Level | Detailed page |
+| Level | Page |
 | --- | --- |
 | L1 · Junior | [Expectations and competencies](./qa/l1-junior.md) |
 | L2 · Jr Advance | [Expectations and competencies](./qa/l2-jr-advance.md) |
@@ -144,16 +118,15 @@ provides the accompanying reference context.
 | L4 · SSR Advance | [Expectations and competencies](./qa/l4-ssr-advance.md) |
 | L5 · Senior | [Expectations and competencies](./qa/l5-senior.md) |
 
-## Documentation scope and source materials
+## Source materials and scope
 
-All maintained documentation in this section is in English. Translated
-criteria and explanatory guidance must remain distinguishable so that
-additional context is not mistaken for an approved requirement.
+All maintained Markdown in this section is in English. Translations and explanatory guidance
+should remain distinguishable from source criteria so that added context is not mistaken for an
+approved promotion requirement.
 
-This Markdown-only edition does not include the original Frontend image,
-Backend PDF, or QA HTML. The navigation therefore points to Markdown
-references rather than attachments that are not present.
+This Markdown-focused set does not include the Frontend PNG or QA HTML. The Backend PDF is
+retained as a reference attachment. Where an original visual or interactive asset is not present,
+use the linked Markdown as the navigable maintained reference.
 
-This section is specific to the Academy programme. It does not redefine
-the company-wide role catalogue or replace the responsibilities assigned
-to product, engineering, or QA leadership.
+This section is specific to the Academy programme. It does not redefine the company-wide role
+catalogue or replace the responsibilities assigned to product, engineering, or QA leadership.
